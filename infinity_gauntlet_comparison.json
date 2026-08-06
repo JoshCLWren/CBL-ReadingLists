@@ -1,0 +1,974 @@
+{
+  "pattern": "infinity gauntlet",
+  "selected_context_lists": [
+    "Marvel/Characters/Spider-Man/Spider-Man Complete 616  Chronology (reddit)/[Spider-Man] 09 - Infinity Gauntlet.cbl",
+    "Marvel/Events/CBRO/1986-1993 - Part 4/[Marvel] Infinity Gauntlet (WEB-CBRO).cbl",
+    "Marvel/Events/LoCG/[1990-1992] Infinity Gauntlet (Marvel Comics)(LoCG).cbl",
+    "Marvel/Teams/X-Men/Ultimate X-Men Reading Order/[1990-1992] Interlude The Infinity Gauntlet (UXRO).cbl"
+  ],
+  "dedicated_lists": [
+    {
+      "path": "Marvel/Events/CBRO/1986-1993 - Part 4/[Marvel] Infinity Gauntlet (WEB-CBRO).cbl",
+      "name": "[Marvel] Infinity Gauntlet (WEB-CBRO)",
+      "entries": 51,
+      "sequence": [
+        {
+          "ordinal": 1,
+          "series": "Silver Surfer",
+          "number": "34",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "32433"
+        },
+        {
+          "ordinal": 2,
+          "series": "Silver Surfer",
+          "number": "35",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "32532"
+        },
+        {
+          "ordinal": 3,
+          "series": "Silver Surfer",
+          "number": "36",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "32645"
+        },
+        {
+          "ordinal": 4,
+          "series": "Silver Surfer",
+          "number": "37",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "32739"
+        },
+        {
+          "ordinal": 5,
+          "series": "Silver Surfer",
+          "number": "38",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "32859"
+        },
+        {
+          "ordinal": 6,
+          "series": "The Thanos Quest",
+          "number": "1",
+          "year": "1990",
+          "volume": "1990",
+          "cv_issue": "32212"
+        },
+        {
+          "ordinal": 7,
+          "series": "The Thanos Quest",
+          "number": "2",
+          "year": "1990",
+          "volume": "1990",
+          "cv_issue": "32247"
+        },
+        {
+          "ordinal": 8,
+          "series": "Silver Surfer",
+          "number": "40",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "33096"
+        },
+        {
+          "ordinal": 9,
+          "series": "Silver Surfer",
+          "number": "41",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "33211"
+        },
+        {
+          "ordinal": 10,
+          "series": "Silver Surfer",
+          "number": "42",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "110128"
+        },
+        {
+          "ordinal": 11,
+          "series": "Silver Surfer",
+          "number": "43",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "33441"
+        },
+        {
+          "ordinal": 12,
+          "series": "Silver Surfer",
+          "number": "44",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "33549"
+        },
+        {
+          "ordinal": 13,
+          "series": "Silver Surfer",
+          "number": "45",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "33791"
+        },
+        {
+          "ordinal": 14,
+          "series": "The Mutant Misadventures of Cloak and Dagger",
+          "number": "17",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "132449"
+        },
+        {
+          "ordinal": 15,
+          "series": "The Mutant Misadventures of Cloak and Dagger",
+          "number": "18",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "132450"
+        },
+        {
+          "ordinal": 16,
+          "series": "Spider-Man",
+          "number": "17",
+          "year": "1991",
+          "volume": "1990",
+          "cv_issue": "64619"
+        },
+        {
+          "ordinal": 17,
+          "series": "Silver Surfer",
+          "number": "46",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "33891"
+        },
+        {
+          "ordinal": 18,
+          "series": "Silver Surfer",
+          "number": "47",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34005"
+        },
+        {
+          "ordinal": 19,
+          "series": "Silver Surfer",
+          "number": "48",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34109"
+        },
+        {
+          "ordinal": 20,
+          "series": "Silver Surfer",
+          "number": "49",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34212"
+        },
+        {
+          "ordinal": 21,
+          "series": "Silver Surfer",
+          "number": "50",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34312"
+        },
+        {
+          "ordinal": 22,
+          "series": "The Infinity Gauntlet",
+          "number": "1",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "34415"
+        },
+        {
+          "ordinal": 23,
+          "series": "Sleepwalker",
+          "number": "6",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "52011"
+        },
+        {
+          "ordinal": 24,
+          "series": "Quasar",
+          "number": "26",
+          "year": "1991",
+          "volume": "1989",
+          "cv_issue": "34658"
+        },
+        {
+          "ordinal": 25,
+          "series": "Quasar",
+          "number": "27",
+          "year": "1991",
+          "volume": "1989",
+          "cv_issue": "34774"
+        },
+        {
+          "ordinal": 26,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "31",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "34444"
+        },
+        {
+          "ordinal": 27,
+          "series": "The Incredible Hulk",
+          "number": "383",
+          "year": "1991",
+          "volume": "1968",
+          "cv_issue": "34414"
+        },
+        {
+          "ordinal": 28,
+          "series": "Silver Surfer",
+          "number": "51",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34428"
+        },
+        {
+          "ordinal": 29,
+          "series": "Silver Surfer",
+          "number": "52",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34543"
+        },
+        {
+          "ordinal": 30,
+          "series": "The Infinity Gauntlet",
+          "number": "2",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "34529"
+        },
+        {
+          "ordinal": 31,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "32",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "34557"
+        },
+        {
+          "ordinal": 32,
+          "series": "Silver Surfer",
+          "number": "53",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34578"
+        },
+        {
+          "ordinal": 33,
+          "series": "Silver Surfer",
+          "number": "54",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34660"
+        },
+        {
+          "ordinal": 34,
+          "series": "The Infinity Gauntlet",
+          "number": "3",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "34647"
+        },
+        {
+          "ordinal": 35,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "33",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "34671"
+        },
+        {
+          "ordinal": 36,
+          "series": "Silver Surfer",
+          "number": "55",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34695"
+        },
+        {
+          "ordinal": 37,
+          "series": "Silver Surfer",
+          "number": "56",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34777"
+        },
+        {
+          "ordinal": 38,
+          "series": "The Infinity Gauntlet",
+          "number": "4",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "34764"
+        },
+        {
+          "ordinal": 39,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "34",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "34792"
+        },
+        {
+          "ordinal": 40,
+          "series": "The Incredible Hulk",
+          "number": "384",
+          "year": "1991",
+          "volume": "1968",
+          "cv_issue": "34528"
+        },
+        {
+          "ordinal": 41,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "35",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "34908"
+        },
+        {
+          "ordinal": 42,
+          "series": "Silver Surfer",
+          "number": "57",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34813"
+        },
+        {
+          "ordinal": 43,
+          "series": "Silver Surfer",
+          "number": "58",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34893"
+        },
+        {
+          "ordinal": 44,
+          "series": "The Infinity Gauntlet",
+          "number": "5",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "34880"
+        },
+        {
+          "ordinal": 45,
+          "series": "Silver Surfer",
+          "number": "59",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34934"
+        },
+        {
+          "ordinal": 46,
+          "series": "The Infinity Gauntlet",
+          "number": "6",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "35000"
+        },
+        {
+          "ordinal": 47,
+          "series": "The Incredible Hulk",
+          "number": "385",
+          "year": "1991",
+          "volume": "1968",
+          "cv_issue": "34646"
+        },
+        {
+          "ordinal": 48,
+          "series": "Sleepwalker",
+          "number": "7",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "52012"
+        },
+        {
+          "ordinal": 49,
+          "series": "Silver Surfer",
+          "number": "60",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "35013"
+        },
+        {
+          "ordinal": 50,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "36",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "35026"
+        },
+        {
+          "ordinal": 51,
+          "series": "Warlock and the Infinity Watch",
+          "number": "1",
+          "year": "1992",
+          "volume": "1992",
+          "cv_issue": "35385"
+        }
+      ]
+    },
+    {
+      "path": "Marvel/Events/LoCG/[1990-1992] Infinity Gauntlet (Marvel Comics)(LoCG).cbl",
+      "name": "[1990-1992] Infinity Gauntlet (Marvel Comics)(LoCG)",
+      "entries": 58,
+      "sequence": [
+        {
+          "ordinal": 1,
+          "series": "Silver Surfer",
+          "number": "34",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "32433"
+        },
+        {
+          "ordinal": 2,
+          "series": "Silver Surfer",
+          "number": "35",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "32532"
+        },
+        {
+          "ordinal": 3,
+          "series": "Silver Surfer",
+          "number": "36",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "32645"
+        },
+        {
+          "ordinal": 4,
+          "series": "Silver Surfer",
+          "number": "37",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "32739"
+        },
+        {
+          "ordinal": 5,
+          "series": "Silver Surfer",
+          "number": "38",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "32859"
+        },
+        {
+          "ordinal": 6,
+          "series": "The Thanos Quest",
+          "number": "1",
+          "year": "1990",
+          "volume": "1990",
+          "cv_issue": "32212"
+        },
+        {
+          "ordinal": 7,
+          "series": "The Thanos Quest",
+          "number": "2",
+          "year": "1990",
+          "volume": "1990",
+          "cv_issue": "32247"
+        },
+        {
+          "ordinal": 8,
+          "series": "Silver Surfer",
+          "number": "40",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "33096"
+        },
+        {
+          "ordinal": 9,
+          "series": "Silver Surfer",
+          "number": "44",
+          "year": "1990",
+          "volume": "1987",
+          "cv_issue": "33549"
+        },
+        {
+          "ordinal": 10,
+          "series": "Silver Surfer",
+          "number": "45",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "33791"
+        },
+        {
+          "ordinal": 11,
+          "series": "The Mutant Misadventures of Cloak and Dagger",
+          "number": "17",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "132449"
+        },
+        {
+          "ordinal": 12,
+          "series": "The Mutant Misadventures of Cloak and Dagger",
+          "number": "18",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "132450"
+        },
+        {
+          "ordinal": 13,
+          "series": "Spider-Man",
+          "number": "17",
+          "year": "1991",
+          "volume": "1990",
+          "cv_issue": "64619"
+        },
+        {
+          "ordinal": 14,
+          "series": "Silver Surfer",
+          "number": "46",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "33891"
+        },
+        {
+          "ordinal": 15,
+          "series": "Silver Surfer",
+          "number": "47",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34005"
+        },
+        {
+          "ordinal": 16,
+          "series": "Silver Surfer",
+          "number": "48",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34109"
+        },
+        {
+          "ordinal": 17,
+          "series": "Silver Surfer",
+          "number": "49",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34212"
+        },
+        {
+          "ordinal": 18,
+          "series": "Silver Surfer",
+          "number": "50",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34312"
+        },
+        {
+          "ordinal": 19,
+          "series": "The Infinity Gauntlet",
+          "number": "1",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "34415"
+        },
+        {
+          "ordinal": 20,
+          "series": "Quasar",
+          "number": "26",
+          "year": "1991",
+          "volume": "1989",
+          "cv_issue": "34658"
+        },
+        {
+          "ordinal": 21,
+          "series": "Quasar",
+          "number": "27",
+          "year": "1991",
+          "volume": "1989",
+          "cv_issue": "34774"
+        },
+        {
+          "ordinal": 22,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "31",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "34444"
+        },
+        {
+          "ordinal": 23,
+          "series": "The Incredible Hulk",
+          "number": "383",
+          "year": "1991",
+          "volume": "1968",
+          "cv_issue": "34414"
+        },
+        {
+          "ordinal": 24,
+          "series": "Silver Surfer",
+          "number": "51",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34428"
+        },
+        {
+          "ordinal": 25,
+          "series": "Silver Surfer",
+          "number": "52",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34543"
+        },
+        {
+          "ordinal": 26,
+          "series": "The Infinity Gauntlet",
+          "number": "2",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "34529"
+        },
+        {
+          "ordinal": 27,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "32",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "34557"
+        },
+        {
+          "ordinal": 28,
+          "series": "Silver Surfer",
+          "number": "53",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34578"
+        },
+        {
+          "ordinal": 29,
+          "series": "Silver Surfer",
+          "number": "54",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34660"
+        },
+        {
+          "ordinal": 30,
+          "series": "The Infinity Gauntlet",
+          "number": "3",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "34647"
+        },
+        {
+          "ordinal": 31,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "33",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "34671"
+        },
+        {
+          "ordinal": 32,
+          "series": "Silver Surfer",
+          "number": "55",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34695"
+        },
+        {
+          "ordinal": 33,
+          "series": "Silver Surfer",
+          "number": "56",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34777"
+        },
+        {
+          "ordinal": 34,
+          "series": "The Infinity Gauntlet",
+          "number": "4",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "34764"
+        },
+        {
+          "ordinal": 35,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "34",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "34792"
+        },
+        {
+          "ordinal": 36,
+          "series": "The Incredible Hulk",
+          "number": "384",
+          "year": "1991",
+          "volume": "1968",
+          "cv_issue": "34528"
+        },
+        {
+          "ordinal": 37,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "35",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "34908"
+        },
+        {
+          "ordinal": 38,
+          "series": "Silver Surfer",
+          "number": "57",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34813"
+        },
+        {
+          "ordinal": 39,
+          "series": "Silver Surfer",
+          "number": "58",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34893"
+        },
+        {
+          "ordinal": 40,
+          "series": "The Infinity Gauntlet",
+          "number": "5",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "34880"
+        },
+        {
+          "ordinal": 41,
+          "series": "Silver Surfer",
+          "number": "59",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "34934"
+        },
+        {
+          "ordinal": 42,
+          "series": "The Infinity Gauntlet",
+          "number": "6",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "35000"
+        },
+        {
+          "ordinal": 43,
+          "series": "The Incredible Hulk",
+          "number": "385",
+          "year": "1991",
+          "volume": "1968",
+          "cv_issue": "34646"
+        },
+        {
+          "ordinal": 44,
+          "series": "Sleepwalker",
+          "number": "7",
+          "year": "1991",
+          "volume": "1991",
+          "cv_issue": "52012"
+        },
+        {
+          "ordinal": 45,
+          "series": "Silver Surfer",
+          "number": "60",
+          "year": "1991",
+          "volume": "1987",
+          "cv_issue": "35013"
+        },
+        {
+          "ordinal": 46,
+          "series": "Silver Surfer",
+          "number": "61",
+          "year": "1992",
+          "volume": "1987",
+          "cv_issue": "35269"
+        },
+        {
+          "ordinal": 47,
+          "series": "Silver Surfer",
+          "number": "62",
+          "year": "1992",
+          "volume": "1987",
+          "cv_issue": "35373"
+        },
+        {
+          "ordinal": 48,
+          "series": "Silver Surfer",
+          "number": "63",
+          "year": "1992",
+          "volume": "1987",
+          "cv_issue": "35478"
+        },
+        {
+          "ordinal": 49,
+          "series": "Silver Surfer",
+          "number": "64",
+          "year": "1992",
+          "volume": "1987",
+          "cv_issue": "35581"
+        },
+        {
+          "ordinal": 50,
+          "series": "Silver Surfer",
+          "number": "65",
+          "year": "1992",
+          "volume": "1987",
+          "cv_issue": "35684"
+        },
+        {
+          "ordinal": 51,
+          "series": "Silver Surfer",
+          "number": "66",
+          "year": "1992",
+          "volume": "1987",
+          "cv_issue": "35789"
+        },
+        {
+          "ordinal": 52,
+          "series": "Doctor Strange, Sorcerer Supreme",
+          "number": "36",
+          "year": "1991",
+          "volume": "1988",
+          "cv_issue": "35026"
+        },
+        {
+          "ordinal": 53,
+          "series": "Warlock and the Infinity Watch",
+          "number": "1",
+          "year": "1992",
+          "volume": "1992",
+          "cv_issue": "35385"
+        },
+        {
+          "ordinal": 54,
+          "series": "Warlock and the Infinity Watch",
+          "number": "2",
+          "year": "1992",
+          "volume": "1992",
+          "cv_issue": "35489"
+        },
+        {
+          "ordinal": 55,
+          "series": "Warlock and the Infinity Watch",
+          "number": "3",
+          "year": "1992",
+          "volume": "1992",
+          "cv_issue": "35593"
+        },
+        {
+          "ordinal": 56,
+          "series": "Warlock and the Infinity Watch",
+          "number": "4",
+          "year": "1992",
+          "volume": "1992",
+          "cv_issue": "35698"
+        },
+        {
+          "ordinal": 57,
+          "series": "Warlock and the Infinity Watch",
+          "number": "5",
+          "year": "1992",
+          "volume": "1992",
+          "cv_issue": "35802"
+        },
+        {
+          "ordinal": 58,
+          "series": "Warlock and the Infinity Watch",
+          "number": "6",
+          "year": "1992",
+          "volume": "1992",
+          "cv_issue": "35926"
+        }
+      ]
+    }
+  ],
+  "shared_issue_ids": [
+    "cv:132449",
+    "cv:132450",
+    "cv:32212",
+    "cv:32247",
+    "cv:32433",
+    "cv:32532",
+    "cv:32645",
+    "cv:32739",
+    "cv:32859",
+    "cv:33096",
+    "cv:33549",
+    "cv:33791",
+    "cv:33891",
+    "cv:34005",
+    "cv:34109",
+    "cv:34212",
+    "cv:34312",
+    "cv:34414",
+    "cv:34415",
+    "cv:34428",
+    "cv:34444",
+    "cv:34528",
+    "cv:34529",
+    "cv:34543",
+    "cv:34557",
+    "cv:34578",
+    "cv:34646",
+    "cv:34647",
+    "cv:34658",
+    "cv:34660",
+    "cv:34671",
+    "cv:34695",
+    "cv:34764",
+    "cv:34774",
+    "cv:34777",
+    "cv:34792",
+    "cv:34813",
+    "cv:34880",
+    "cv:34893",
+    "cv:34908",
+    "cv:34934",
+    "cv:35000",
+    "cv:35013",
+    "cv:35026",
+    "cv:35385",
+    "cv:52012",
+    "cv:64619"
+  ],
+  "unique_by_list": {
+    "Marvel/Events/CBRO/1986-1993 - Part 4/[Marvel] Infinity Gauntlet (WEB-CBRO).cbl": [
+      "cv:110128",
+      "cv:33211",
+      "cv:33441",
+      "cv:52011"
+    ],
+    "Marvel/Events/LoCG/[1990-1992] Infinity Gauntlet (Marvel Comics)(LoCG).cbl": [
+      "cv:35269",
+      "cv:35373",
+      "cv:35478",
+      "cv:35489",
+      "cv:35581",
+      "cv:35593",
+      "cv:35684",
+      "cv:35698",
+      "cv:35789",
+      "cv:35802",
+      "cv:35926"
+    ]
+  },
+  "ordering_disagreements": [
+    {
+      "left": "Marvel/Events/CBRO/1986-1993 - Part 4/[Marvel] Infinity Gauntlet (WEB-CBRO).cbl",
+      "right": "Marvel/Events/LoCG/[1990-1992] Infinity Gauntlet (Marvel Comics)(LoCG).cbl",
+      "reversed_pairs": []
+    }
+  ]
+}
