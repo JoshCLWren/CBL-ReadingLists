@@ -1,2 +1,4 @@
 .DS_Store
 .vscode
+report.json
+__pycache__/
