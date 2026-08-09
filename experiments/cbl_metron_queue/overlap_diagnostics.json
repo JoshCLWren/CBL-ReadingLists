@@ -1,0 +1,9 @@
+{
+  "total_cbl_files_parsed": 1702,
+  "files_with_at_least_one_accepted_issue_match": 574,
+  "files_with_at_least_two_accepted_issue_matches": 501,
+  "files_with_at_least_two_matched_threads": 339,
+  "focused_lists_with_at_least_two_matches": 62,
+  "broad_chronology_or_master_with_matches": 460,
+  "files_with_zero_accepted_matches": 1128
+}

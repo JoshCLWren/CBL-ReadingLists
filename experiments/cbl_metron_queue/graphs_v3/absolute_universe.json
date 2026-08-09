@@ -1,0 +1,4568 @@
+{
+  "case": "absolute_universe",
+  "primary_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+  "secondary_files_considered": [
+    "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+  ],
+  "nodes": [
+    {
+      "id": 22886,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "1",
+      "thread_id": 3153
+    },
+    {
+      "id": 22887,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "2",
+      "thread_id": 3153
+    },
+    {
+      "id": 22888,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "3",
+      "thread_id": 3153
+    },
+    {
+      "id": 22889,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "4",
+      "thread_id": 3153
+    },
+    {
+      "id": 22890,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "5",
+      "thread_id": 3153
+    },
+    {
+      "id": 22891,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "6",
+      "thread_id": 3153
+    },
+    {
+      "id": 22905,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "1",
+      "thread_id": 3156
+    },
+    {
+      "id": 22892,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "7",
+      "thread_id": 3153
+    },
+    {
+      "id": 22906,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "2",
+      "thread_id": 3156
+    },
+    {
+      "id": 22918,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "8",
+      "thread_id": 3157
+    },
+    {
+      "id": 22893,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "8",
+      "thread_id": 3153
+    },
+    {
+      "id": 22907,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "3",
+      "thread_id": 3156
+    },
+    {
+      "id": 22919,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "9",
+      "thread_id": 3157
+    },
+    {
+      "id": 22894,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "9",
+      "thread_id": 3153
+    },
+    {
+      "id": 22908,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "4",
+      "thread_id": 3156
+    },
+    {
+      "id": 22929,
+      "type": "issue",
+      "title": "Absolute green lantern ",
+      "issue": "4",
+      "thread_id": 3158
+    },
+    {
+      "id": 22920,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "10",
+      "thread_id": 3157
+    },
+    {
+      "id": 22895,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "10",
+      "thread_id": 3153
+    },
+    {
+      "id": 22909,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "5",
+      "thread_id": 3156
+    },
+    {
+      "id": 22930,
+      "type": "issue",
+      "title": "Absolute green lantern ",
+      "issue": "5",
+      "thread_id": 3158
+    },
+    {
+      "id": 22938,
+      "type": "issue",
+      "title": "Absolute Batman",
+      "issue": "11",
+      "thread_id": 3159
+    },
+    {
+      "id": 22921,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "11",
+      "thread_id": 3157
+    },
+    {
+      "id": 22896,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "11",
+      "thread_id": 3153
+    },
+    {
+      "id": 22910,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "6",
+      "thread_id": 3156
+    },
+    {
+      "id": 22931,
+      "type": "issue",
+      "title": "Absolute green lantern ",
+      "issue": "6",
+      "thread_id": 3158
+    },
+    {
+      "id": 22951,
+      "type": "issue",
+      "title": "Absolute Evil",
+      "issue": "1",
+      "thread_id": 3162
+    },
+    {
+      "id": 22950,
+      "type": "issue",
+      "title": "Absolute evil",
+      "issue": "1",
+      "thread_id": 3161
+    },
+    {
+      "id": 22939,
+      "type": "issue",
+      "title": "Absolute Batman",
+      "issue": "12",
+      "thread_id": 3159
+    },
+    {
+      "id": 22911,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "7",
+      "thread_id": 3156
+    },
+    {
+      "id": 22922,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "12",
+      "thread_id": 3157
+    },
+    {
+      "id": 22932,
+      "type": "issue",
+      "title": "Absolute green lantern ",
+      "issue": "7",
+      "thread_id": 3158
+    },
+    {
+      "id": 22940,
+      "type": "issue",
+      "title": "Absolute Batman",
+      "issue": "13",
+      "thread_id": 3159
+    },
+    {
+      "id": 22912,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "8",
+      "thread_id": 3156
+    },
+    {
+      "id": 22923,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "13",
+      "thread_id": 3157
+    },
+    {
+      "id": 22933,
+      "type": "issue",
+      "title": "Absolute green lantern ",
+      "issue": "8",
+      "thread_id": 3158
+    },
+    {
+      "id": 22941,
+      "type": "issue",
+      "title": "Absolute Batman",
+      "issue": "14",
+      "thread_id": 3159
+    },
+    {
+      "id": 22924,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "14",
+      "thread_id": 3157
+    },
+    {
+      "id": 22934,
+      "type": "issue",
+      "title": "Absolute green lantern ",
+      "issue": "9",
+      "thread_id": 3158
+    },
+    {
+      "id": 22942,
+      "type": "issue",
+      "title": "Absolute Batman",
+      "issue": "15",
+      "thread_id": 3159
+    },
+    {
+      "id": 22914,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "10",
+      "thread_id": 3156
+    },
+    {
+      "id": 22897,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "12",
+      "thread_id": 3153
+    },
+    {
+      "id": 22898,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "13",
+      "thread_id": 3153
+    },
+    {
+      "id": 22899,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "14",
+      "thread_id": 3153
+    },
+    {
+      "id": 22925,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "15",
+      "thread_id": 3157
+    },
+    {
+      "id": 22943,
+      "type": "issue",
+      "title": "Absolute Batman",
+      "issue": "16",
+      "thread_id": 3159
+    },
+    {
+      "id": 22900,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "15",
+      "thread_id": 3153
+    },
+    {
+      "id": 22935,
+      "type": "issue",
+      "title": "Absolute green lantern ",
+      "issue": "10",
+      "thread_id": 3158
+    },
+    {
+      "id": 22926,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "16",
+      "thread_id": 3157
+    },
+    {
+      "id": 22915,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "11",
+      "thread_id": 3156
+    },
+    {
+      "id": 22901,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "16",
+      "thread_id": 3153
+    },
+    {
+      "id": 22936,
+      "type": "issue",
+      "title": "Absolute green lantern ",
+      "issue": "11",
+      "thread_id": 3158
+    },
+    {
+      "id": 22944,
+      "type": "issue",
+      "title": "Absolute Batman",
+      "issue": "17",
+      "thread_id": 3159
+    },
+    {
+      "id": 22927,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "17",
+      "thread_id": 3157
+    },
+    {
+      "id": 22902,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "17",
+      "thread_id": 3153
+    },
+    {
+      "id": 22916,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "12",
+      "thread_id": 3156
+    },
+    {
+      "id": 23657,
+      "type": "issue",
+      "title": "Dc ko Superman v Captain atom",
+      "issue": "1",
+      "thread_id": 3200
+    },
+    {
+      "id": 22945,
+      "type": "issue",
+      "title": "Absolute Batman",
+      "issue": "18",
+      "thread_id": 3159
+    },
+    {
+      "id": 22937,
+      "type": "issue",
+      "title": "Absolute green lantern ",
+      "issue": "12",
+      "thread_id": 3158
+    },
+    {
+      "id": 22917,
+      "type": "issue",
+      "title": "Absolute Flash",
+      "issue": "13",
+      "thread_id": 3156
+    },
+    {
+      "id": 22928,
+      "type": "issue",
+      "title": "Absolute Wonder Woman ",
+      "issue": "18",
+      "thread_id": 3157
+    },
+    {
+      "id": 26234,
+      "type": "issue",
+      "title": "Absolute Superman",
+      "issue": "18",
+      "thread_id": 3153
+    }
+  ],
+  "edges": [
+    {
+      "from": 22886,
+      "to": 22887,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22887,
+      "to": 22888,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22888,
+      "to": 22889,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22889,
+      "to": 22890,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22890,
+      "to": 22891,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22891,
+      "to": 22892,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22892,
+      "to": 22893,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22893,
+      "to": 22894,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22894,
+      "to": 22895,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22895,
+      "to": 22896,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22896,
+      "to": 22897,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22897,
+      "to": 22898,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22898,
+      "to": 22899,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22899,
+      "to": 22900,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22900,
+      "to": 22901,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22901,
+      "to": 22902,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22902,
+      "to": 26234,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22905,
+      "to": 22906,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22906,
+      "to": 22907,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22907,
+      "to": 22908,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22908,
+      "to": 22909,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22909,
+      "to": 22910,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22910,
+      "to": 22911,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22911,
+      "to": 22912,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22912,
+      "to": 22914,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22914,
+      "to": 22915,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22915,
+      "to": 22916,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22916,
+      "to": 22917,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22918,
+      "to": 22919,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22919,
+      "to": 22920,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22920,
+      "to": 22921,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22921,
+      "to": 22922,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22922,
+      "to": 22923,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22923,
+      "to": 22924,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22924,
+      "to": 22925,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22925,
+      "to": 22926,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22926,
+      "to": 22927,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22927,
+      "to": 22928,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22929,
+      "to": 22930,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22930,
+      "to": 22931,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22931,
+      "to": 22932,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22932,
+      "to": 22933,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22933,
+      "to": 22934,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22934,
+      "to": 22935,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22935,
+      "to": 22936,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22936,
+      "to": 22937,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22938,
+      "to": 22939,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22939,
+      "to": 22940,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22940,
+      "to": 22941,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22941,
+      "to": 22942,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22942,
+      "to": 22943,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22943,
+      "to": 22944,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    },
+    {
+      "from": 22944,
+      "to": 22945,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl"
+      ]
+    }
+  ],
+  "curator_preference_evidence": [
+    {
+      "a": 22886,
+      "b": 22905,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22886,
+      "b": 22906,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 23,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22886,
+      "b": 22918,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 27,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22887,
+      "b": 22905,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22887,
+      "b": 22906,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 20,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22887,
+      "b": 22918,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 24,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22887,
+      "b": 22907,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 26,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22888,
+      "b": 22905,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22888,
+      "b": 22906,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22888,
+      "b": 22918,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 21,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22888,
+      "b": 22907,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 23,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22888,
+      "b": 22919,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 27,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22889,
+      "b": 22905,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22889,
+      "b": 22906,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22889,
+      "b": 22918,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 18,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22889,
+      "b": 22907,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 20,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22889,
+      "b": 22919,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 24,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22890,
+      "b": 22905,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22890,
+      "b": 22906,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22890,
+      "b": 22918,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22890,
+      "b": 22907,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22890,
+      "b": 22919,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 21,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22890,
+      "b": 22908,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 23,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22891,
+      "b": 22905,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22891,
+      "b": 22906,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22891,
+      "b": 22918,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22891,
+      "b": 22907,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22891,
+      "b": 22919,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 18,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22891,
+      "b": 22908,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 20,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22891,
+      "b": 22929,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 22,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22905,
+      "b": 22892,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22905,
+      "b": 22918,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22905,
+      "b": 22893,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22905,
+      "b": 22919,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22905,
+      "b": 22894,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 18,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22905,
+      "b": 22929,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 21,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22905,
+      "b": 22920,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 23,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22892,
+      "b": 22906,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22892,
+      "b": 22918,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22892,
+      "b": 22907,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22892,
+      "b": 22919,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22892,
+      "b": 22908,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22892,
+      "b": 22929,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22892,
+      "b": 22920,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22906,
+      "b": 22918,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22906,
+      "b": 22893,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22906,
+      "b": 22919,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22906,
+      "b": 22894,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22906,
+      "b": 22929,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22906,
+      "b": 22920,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22906,
+      "b": 22895,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22918,
+      "b": 22893,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22918,
+      "b": 22907,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22918,
+      "b": 22894,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22918,
+      "b": 22908,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22918,
+      "b": 22929,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22918,
+      "b": 22895,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22918,
+      "b": 22909,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22918,
+      "b": 22930,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22893,
+      "b": 22907,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22893,
+      "b": 22919,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22893,
+      "b": 22908,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22893,
+      "b": 22929,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22893,
+      "b": 22920,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22893,
+      "b": 22909,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22893,
+      "b": 22930,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22893,
+      "b": 22938,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22907,
+      "b": 22919,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22907,
+      "b": 22894,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22907,
+      "b": 22929,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22907,
+      "b": 22920,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22907,
+      "b": 22895,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22907,
+      "b": 22930,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22907,
+      "b": 22938,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22907,
+      "b": 22921,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22919,
+      "b": 22894,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22919,
+      "b": 22908,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22919,
+      "b": 22929,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22919,
+      "b": 22895,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22919,
+      "b": 22909,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22919,
+      "b": 22930,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22919,
+      "b": 22938,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22919,
+      "b": 22896,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22894,
+      "b": 22908,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22894,
+      "b": 22929,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22894,
+      "b": 22920,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22894,
+      "b": 22909,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22894,
+      "b": 22930,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22894,
+      "b": 22938,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22894,
+      "b": 22921,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22894,
+      "b": 22910,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22908,
+      "b": 22929,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22908,
+      "b": 22920,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22908,
+      "b": 22895,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22908,
+      "b": 22930,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22908,
+      "b": 22938,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22908,
+      "b": 22921,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22908,
+      "b": 22896,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22908,
+      "b": 22931,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22929,
+      "b": 22920,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22929,
+      "b": 22895,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22929,
+      "b": 22909,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22929,
+      "b": 22938,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22929,
+      "b": 22921,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22929,
+      "b": 22896,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22929,
+      "b": 22910,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22929,
+      "b": 22951,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22920,
+      "b": 22895,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22920,
+      "b": 22909,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22920,
+      "b": 22930,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22920,
+      "b": 22938,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22920,
+      "b": 22896,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22920,
+      "b": 22910,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22920,
+      "b": 22931,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22920,
+      "b": 22951,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22920,
+      "b": 22950,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22895,
+      "b": 22909,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22895,
+      "b": 22930,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22895,
+      "b": 22938,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22895,
+      "b": 22921,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22895,
+      "b": 22910,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22895,
+      "b": 22931,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22895,
+      "b": 22951,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22895,
+      "b": 22950,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22895,
+      "b": 22939,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22909,
+      "b": 22930,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22909,
+      "b": 22938,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22909,
+      "b": 22921,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22909,
+      "b": 22896,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22909,
+      "b": 22931,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22909,
+      "b": 22951,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22909,
+      "b": 22950,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22909,
+      "b": 22939,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22930,
+      "b": 22938,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22930,
+      "b": 22921,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22930,
+      "b": 22896,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22930,
+      "b": 22910,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22930,
+      "b": 22951,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22930,
+      "b": 22950,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22930,
+      "b": 22939,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22930,
+      "b": 22911,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22930,
+      "b": 22922,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22938,
+      "b": 22921,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22938,
+      "b": 22896,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22938,
+      "b": 22910,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22938,
+      "b": 22931,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22938,
+      "b": 22951,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22938,
+      "b": 22950,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22938,
+      "b": 22911,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22938,
+      "b": 22922,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22938,
+      "b": 22932,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22921,
+      "b": 22896,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22921,
+      "b": 22910,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22921,
+      "b": 22931,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22921,
+      "b": 22951,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22921,
+      "b": 22950,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22921,
+      "b": 22939,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22921,
+      "b": 22911,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22921,
+      "b": 22932,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22921,
+      "b": 22940,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22896,
+      "b": 22910,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22896,
+      "b": 22931,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22896,
+      "b": 22951,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22896,
+      "b": 22950,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22896,
+      "b": 22939,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22896,
+      "b": 22911,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22896,
+      "b": 22922,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22896,
+      "b": 22932,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22896,
+      "b": 22940,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22896,
+      "b": 22912,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22910,
+      "b": 22931,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22910,
+      "b": 22951,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22910,
+      "b": 22950,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22910,
+      "b": 22939,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22910,
+      "b": 22922,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22910,
+      "b": 22932,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22910,
+      "b": 22940,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22910,
+      "b": 22923,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22931,
+      "b": 22951,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22931,
+      "b": 22950,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22931,
+      "b": 22939,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22931,
+      "b": 22911,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22931,
+      "b": 22922,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22931,
+      "b": 22940,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22931,
+      "b": 22912,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22931,
+      "b": 22923,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22951,
+      "b": 22950,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22951,
+      "b": 22939,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22951,
+      "b": 22911,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22951,
+      "b": 22922,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22951,
+      "b": 22932,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22951,
+      "b": 22940,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22951,
+      "b": 22912,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22951,
+      "b": 22923,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22951,
+      "b": 22933,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22951,
+      "b": 22941,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22950,
+      "b": 22939,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22950,
+      "b": 22911,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22950,
+      "b": 22922,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22950,
+      "b": 22932,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22950,
+      "b": 22940,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22950,
+      "b": 22912,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22950,
+      "b": 22923,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22950,
+      "b": 22933,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22950,
+      "b": 22941,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22950,
+      "b": 22924,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22939,
+      "b": 22911,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22939,
+      "b": 22922,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22939,
+      "b": 22932,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22939,
+      "b": 22912,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22939,
+      "b": 22923,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22939,
+      "b": 22933,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22939,
+      "b": 22924,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22939,
+      "b": 22934,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22911,
+      "b": 22922,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22911,
+      "b": 22932,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22911,
+      "b": 22940,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22911,
+      "b": 22923,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22911,
+      "b": 22933,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22911,
+      "b": 22941,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22911,
+      "b": 22924,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22911,
+      "b": 22934,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22911,
+      "b": 22942,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22922,
+      "b": 22932,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22922,
+      "b": 22940,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22922,
+      "b": 22912,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22922,
+      "b": 22933,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22922,
+      "b": 22941,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22922,
+      "b": 22934,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22922,
+      "b": 22942,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22922,
+      "b": 22914,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22932,
+      "b": 22940,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22932,
+      "b": 22912,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22932,
+      "b": 22923,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22932,
+      "b": 22941,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22932,
+      "b": 22924,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22932,
+      "b": 22942,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22932,
+      "b": 22914,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22932,
+      "b": 22897,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22940,
+      "b": 22912,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22940,
+      "b": 22923,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22940,
+      "b": 22933,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22940,
+      "b": 22924,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22940,
+      "b": 22934,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22940,
+      "b": 22914,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22940,
+      "b": 22897,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22940,
+      "b": 22898,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22912,
+      "b": 22923,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22912,
+      "b": 22933,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22912,
+      "b": 22941,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22912,
+      "b": 22924,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22912,
+      "b": 22934,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22912,
+      "b": 22942,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22912,
+      "b": 22897,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22912,
+      "b": 22898,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22912,
+      "b": 22899,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22923,
+      "b": 22933,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22923,
+      "b": 22941,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22923,
+      "b": 22934,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22923,
+      "b": 22942,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22923,
+      "b": 22914,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22923,
+      "b": 22897,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22923,
+      "b": 22898,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22923,
+      "b": 22899,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22933,
+      "b": 22941,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22933,
+      "b": 22924,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22933,
+      "b": 22942,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22933,
+      "b": 22914,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22933,
+      "b": 22897,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22933,
+      "b": 22898,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22933,
+      "b": 22899,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22933,
+      "b": 22925,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22933,
+      "b": 22943,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22941,
+      "b": 22924,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22941,
+      "b": 22934,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22941,
+      "b": 22914,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22941,
+      "b": 22897,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22941,
+      "b": 22898,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22941,
+      "b": 22899,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22941,
+      "b": 22925,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22941,
+      "b": 22900,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22924,
+      "b": 22934,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22924,
+      "b": 22942,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22924,
+      "b": 22914,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22924,
+      "b": 22897,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22924,
+      "b": 22898,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22924,
+      "b": 22899,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22924,
+      "b": 22943,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22924,
+      "b": 22900,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22924,
+      "b": 22935,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22934,
+      "b": 22942,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22934,
+      "b": 22914,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22934,
+      "b": 22897,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22934,
+      "b": 22898,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22934,
+      "b": 22899,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22934,
+      "b": 22925,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22934,
+      "b": 22943,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22934,
+      "b": 22900,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22934,
+      "b": 22926,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22942,
+      "b": 22914,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22942,
+      "b": 22897,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22942,
+      "b": 22898,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22942,
+      "b": 22899,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22942,
+      "b": 22925,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22942,
+      "b": 22900,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22942,
+      "b": 22935,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22942,
+      "b": 22926,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22942,
+      "b": 22915,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22914,
+      "b": 22897,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22914,
+      "b": 22898,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22914,
+      "b": 22899,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22914,
+      "b": 22925,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22914,
+      "b": 22943,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22914,
+      "b": 22900,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22914,
+      "b": 22935,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22914,
+      "b": 22926,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22914,
+      "b": 22901,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22897,
+      "b": 22925,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22897,
+      "b": 22943,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22897,
+      "b": 22935,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22897,
+      "b": 22926,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22897,
+      "b": 22915,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22897,
+      "b": 22936,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22898,
+      "b": 22925,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22898,
+      "b": 22943,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22898,
+      "b": 22935,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22898,
+      "b": 22926,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22898,
+      "b": 22915,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22898,
+      "b": 22936,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22898,
+      "b": 22944,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22899,
+      "b": 22925,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22899,
+      "b": 22943,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22899,
+      "b": 22935,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22899,
+      "b": 22926,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22899,
+      "b": 22915,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22899,
+      "b": 22936,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22899,
+      "b": 22944,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22899,
+      "b": 22927,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22925,
+      "b": 22943,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22925,
+      "b": 22900,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22925,
+      "b": 22935,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22925,
+      "b": 22915,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22925,
+      "b": 22901,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22925,
+      "b": 22936,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22925,
+      "b": 22944,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22925,
+      "b": 22902,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22943,
+      "b": 22900,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22943,
+      "b": 22935,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22943,
+      "b": 22926,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22943,
+      "b": 22915,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22943,
+      "b": 22901,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22943,
+      "b": 22936,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22943,
+      "b": 22927,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22943,
+      "b": 22902,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22943,
+      "b": 22916,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22900,
+      "b": 22935,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22900,
+      "b": 22926,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22900,
+      "b": 22915,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22900,
+      "b": 22936,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22900,
+      "b": 22944,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22900,
+      "b": 22927,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22900,
+      "b": 22916,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22900,
+      "b": 23657,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22935,
+      "b": 22926,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22935,
+      "b": 22915,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22935,
+      "b": 22901,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22935,
+      "b": 22944,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22935,
+      "b": 22927,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22935,
+      "b": 22902,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22935,
+      "b": 22916,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22935,
+      "b": 23657,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22935,
+      "b": 22945,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 18,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22926,
+      "b": 22915,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22926,
+      "b": 22901,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22926,
+      "b": 22936,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22926,
+      "b": 22944,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22926,
+      "b": 22902,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22926,
+      "b": 22916,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22926,
+      "b": 23657,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22926,
+      "b": 22945,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22926,
+      "b": 22937,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22915,
+      "b": 22901,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22915,
+      "b": 22936,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22915,
+      "b": 22944,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22915,
+      "b": 22927,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22915,
+      "b": 22902,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22915,
+      "b": 23657,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22915,
+      "b": 22945,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22915,
+      "b": 22937,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22901,
+      "b": 22936,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22901,
+      "b": 22944,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22901,
+      "b": 22927,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22901,
+      "b": 22916,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22901,
+      "b": 23657,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22901,
+      "b": 22945,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22901,
+      "b": 22937,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22901,
+      "b": 22917,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22901,
+      "b": 22928,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22936,
+      "b": 22944,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22936,
+      "b": 22927,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22936,
+      "b": 22902,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22936,
+      "b": 22916,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22936,
+      "b": 23657,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22936,
+      "b": 22945,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22936,
+      "b": 22917,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22936,
+      "b": 22928,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22936,
+      "b": 26234,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22944,
+      "b": 22927,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22944,
+      "b": 22902,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22944,
+      "b": 22916,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22944,
+      "b": 23657,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22944,
+      "b": 22937,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22944,
+      "b": 22917,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22944,
+      "b": 22928,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22944,
+      "b": 26234,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22927,
+      "b": 22902,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22927,
+      "b": 22916,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22927,
+      "b": 23657,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22927,
+      "b": 22945,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22927,
+      "b": 22937,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22927,
+      "b": 22917,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22927,
+      "b": 26234,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22902,
+      "b": 22916,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22902,
+      "b": 23657,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22902,
+      "b": 22945,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22902,
+      "b": 22937,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22902,
+      "b": 22917,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22902,
+      "b": 22928,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22916,
+      "b": 23657,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22916,
+      "b": 22945,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22916,
+      "b": 22937,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22916,
+      "b": 22928,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22916,
+      "b": 26234,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 23657,
+      "b": 22945,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 23657,
+      "b": 22937,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 23657,
+      "b": 22917,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 23657,
+      "b": 22928,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 23657,
+      "b": 26234,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22945,
+      "b": 22937,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22945,
+      "b": 22917,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22945,
+      "b": 22928,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22945,
+      "b": 26234,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22937,
+      "b": 22917,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22937,
+      "b": 22928,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22937,
+      "b": 26234,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22917,
+      "b": 22928,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22917,
+      "b": 26234,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 22928,
+      "b": 26234,
+      "source_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+      "source_family": "CBH",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    }
+  ],
+  "metrics": {
+    "acyclic": true,
+    "primary_order_valid": true,
+    "same_series_order_valid": true,
+    "primary_length": 61,
+    "nodes_in_graph": 61,
+    "series_edges_checked": 53,
+    "initial_frontier_width": 8,
+    "edge_density": 0.014481,
+    "freedom_note": "frontier width and density are deterministic freedom measures; no randomized-order count",
+    "pre_reduction_edge_count": 53,
+    "post_reduction_edge_count": 53,
+    "parallelism_interpretation": "parallel lanes are represented by absent cross-thread hard edges; no parallel edges are manufactured"
+  }
+}

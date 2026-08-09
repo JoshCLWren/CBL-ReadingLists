@@ -1,0 +1,27 @@
+digraph onslaught {
+ "1990" -> "2000" [label="series_spine"];
+ "2000" -> "2001" [label="series_spine"];
+ "2001" -> "2002" [label="series_spine"];
+ "2002" -> "2003" [label="series_spine"];
+ "2003" -> "2004" [label="series_spine"];
+ "2004" -> "2005" [label="series_spine"];
+ "1599" -> "1602" [label="series_spine"];
+ "1602" -> "1603" [label="series_spine"];
+ "1603" -> "1604" [label="series_spine"];
+ "1604" -> "1605" [label="series_spine"];
+ "1605" -> "1606" [label="series_spine"];
+ "735" -> "738" [label="series_spine"];
+ "738" -> "739" [label="series_spine"];
+ "739" -> "740" [label="series_spine"];
+ "740" -> "741" [label="series_spine"];
+ "633" -> "634" [label="series_spine"];
+ "508" -> "509" [label="series_spine"];
+ "509" -> "510" [label="series_spine"];
+ "510" -> "511" [label="series_spine"];
+ "511" -> "512" [label="series_spine"];
+ "1401" -> "1402" [label="series_spine"];
+ "1402" -> "1403" [label="series_spine"];
+ "1403" -> "1404" [label="series_spine"];
+ "1042" -> "1043" [label="series_spine"];
+ "820" -> "821" [label="series_spine"];
+}

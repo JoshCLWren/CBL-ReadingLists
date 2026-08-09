@@ -1,0 +1,2040 @@
+{
+  "case": "cosmic_marvel",
+  "primary_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+  "secondary_files_considered": [
+    "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+  ],
+  "nodes": [
+    {
+      "id": 1543,
+      "type": "issue",
+      "title": "Captain Marvel",
+      "issue": "26",
+      "thread_id": 189
+    },
+    {
+      "id": 1548,
+      "type": "issue",
+      "title": "Captain Marvel",
+      "issue": "31",
+      "thread_id": 189
+    },
+    {
+      "id": 660,
+      "type": "issue",
+      "title": "Warlock and the Infinity Watch",
+      "issue": "1",
+      "thread_id": 101
+    },
+    {
+      "id": 661,
+      "type": "issue",
+      "title": "Warlock and the Infinity Watch",
+      "issue": "2",
+      "thread_id": 101
+    },
+    {
+      "id": 662,
+      "type": "issue",
+      "title": "Warlock and the Infinity Watch",
+      "issue": "3",
+      "thread_id": 101
+    },
+    {
+      "id": 663,
+      "type": "issue",
+      "title": "Warlock and the Infinity Watch",
+      "issue": "4",
+      "thread_id": 101
+    },
+    {
+      "id": 664,
+      "type": "issue",
+      "title": "Warlock and the Infinity Watch",
+      "issue": "5",
+      "thread_id": 101
+    },
+    {
+      "id": 665,
+      "type": "issue",
+      "title": "Warlock and the Infinity Watch",
+      "issue": "6",
+      "thread_id": 101
+    },
+    {
+      "id": 666,
+      "type": "issue",
+      "title": "Warlock and the Infinity Watch",
+      "issue": "7",
+      "thread_id": 101
+    },
+    {
+      "id": 667,
+      "type": "issue",
+      "title": "Infinity War",
+      "issue": "1",
+      "thread_id": 296
+    },
+    {
+      "id": 668,
+      "type": "issue",
+      "title": "Infinity War",
+      "issue": "2",
+      "thread_id": 296
+    },
+    {
+      "id": 669,
+      "type": "issue",
+      "title": "Infinity War",
+      "issue": "3",
+      "thread_id": 296
+    },
+    {
+      "id": 670,
+      "type": "issue",
+      "title": "Infinity War",
+      "issue": "4",
+      "thread_id": 296
+    },
+    {
+      "id": 671,
+      "type": "issue",
+      "title": "Infinity War",
+      "issue": "5",
+      "thread_id": 296
+    },
+    {
+      "id": 672,
+      "type": "issue",
+      "title": "Infinity War",
+      "issue": "6",
+      "thread_id": 296
+    },
+    {
+      "id": 673,
+      "type": "issue",
+      "title": "Silver Surfer / Warlock: Resurrection",
+      "issue": "1",
+      "thread_id": 297
+    },
+    {
+      "id": 674,
+      "type": "issue",
+      "title": "Silver Surfer / Warlock: Resurrection",
+      "issue": "2",
+      "thread_id": 297
+    },
+    {
+      "id": 675,
+      "type": "issue",
+      "title": "Silver Surfer / Warlock: Resurrection",
+      "issue": "3",
+      "thread_id": 297
+    },
+    {
+      "id": 676,
+      "type": "issue",
+      "title": "Silver Surfer / Warlock: Resurrection",
+      "issue": "4",
+      "thread_id": 297
+    },
+    {
+      "id": 677,
+      "type": "issue",
+      "title": "Infinity Crusade",
+      "issue": "1",
+      "thread_id": 298
+    },
+    {
+      "id": 678,
+      "type": "issue",
+      "title": "Infinity Crusade",
+      "issue": "2",
+      "thread_id": 298
+    },
+    {
+      "id": 679,
+      "type": "issue",
+      "title": "Infinity Crusade",
+      "issue": "3",
+      "thread_id": 298
+    },
+    {
+      "id": 680,
+      "type": "issue",
+      "title": "Infinity Crusade",
+      "issue": "4",
+      "thread_id": 298
+    },
+    {
+      "id": 681,
+      "type": "issue",
+      "title": "Infinity Crusade",
+      "issue": "5",
+      "thread_id": 298
+    },
+    {
+      "id": 682,
+      "type": "issue",
+      "title": "Infinity Crusade",
+      "issue": "6",
+      "thread_id": 298
+    },
+    {
+      "id": 23421,
+      "type": "issue",
+      "title": "Thanos",
+      "issue": "5",
+      "thread_id": 3179
+    },
+    {
+      "id": 23422,
+      "type": "issue",
+      "title": "Thanos",
+      "issue": "6",
+      "thread_id": 3179
+    },
+    {
+      "id": 23423,
+      "type": "issue",
+      "title": "Thanos",
+      "issue": "7",
+      "thread_id": 3179
+    },
+    {
+      "id": 23424,
+      "type": "issue",
+      "title": "Thanos",
+      "issue": "8",
+      "thread_id": 3179
+    },
+    {
+      "id": 23425,
+      "type": "issue",
+      "title": "Thanos",
+      "issue": "9",
+      "thread_id": 3179
+    },
+    {
+      "id": 23426,
+      "type": "issue",
+      "title": "Thanos",
+      "issue": "10",
+      "thread_id": 3179
+    },
+    {
+      "id": 23427,
+      "type": "issue",
+      "title": "Thanos",
+      "issue": "11",
+      "thread_id": 3179
+    },
+    {
+      "id": 23428,
+      "type": "issue",
+      "title": "Thanos",
+      "issue": "12",
+      "thread_id": 3179
+    }
+  ],
+  "edges": [
+    {
+      "from": 1543,
+      "to": 1548,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 660,
+      "to": 661,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 661,
+      "to": 662,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 662,
+      "to": 663,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 663,
+      "to": 664,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 664,
+      "to": 665,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 665,
+      "to": 666,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 667,
+      "to": 668,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 668,
+      "to": 669,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 669,
+      "to": 670,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 670,
+      "to": 671,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 671,
+      "to": 672,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 673,
+      "to": 674,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 674,
+      "to": 675,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 675,
+      "to": 676,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 677,
+      "to": 678,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 678,
+      "to": 679,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 679,
+      "to": 680,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 680,
+      "to": 681,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 681,
+      "to": 682,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 23421,
+      "to": 23422,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 23422,
+      "to": 23423,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 23423,
+      "to": 23424,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 23424,
+      "to": 23425,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 23425,
+      "to": 23426,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 23426,
+      "to": 23427,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 23427,
+      "to": 23428,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl"
+      ]
+    }
+  ],
+  "curator_preference_evidence": [
+    {
+      "a": 1543,
+      "b": 660,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 74,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1543,
+      "b": 661,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 81,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1543,
+      "b": 662,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 82,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1543,
+      "b": 663,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 83,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1543,
+      "b": 664,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 84,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1543,
+      "b": 665,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 85,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1543,
+      "b": 666,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 86,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1543,
+      "b": 667,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 88,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1543,
+      "b": 668,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 95,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1548,
+      "b": 660,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 68,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1548,
+      "b": 661,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 75,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1548,
+      "b": 662,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 76,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1548,
+      "b": 663,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 77,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1548,
+      "b": 664,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 78,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1548,
+      "b": 665,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 79,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1548,
+      "b": 666,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 80,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1548,
+      "b": 667,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 82,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1548,
+      "b": 668,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 89,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1548,
+      "b": 669,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 95,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 660,
+      "b": 667,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 660,
+      "b": 668,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 21,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 660,
+      "b": 669,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 27,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 660,
+      "b": 670,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 43,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 661,
+      "b": 667,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 661,
+      "b": 668,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 661,
+      "b": 669,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 20,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 661,
+      "b": 670,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 36,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 661,
+      "b": 671,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 45,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 662,
+      "b": 667,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 662,
+      "b": 668,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 662,
+      "b": 669,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 19,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 662,
+      "b": 670,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 35,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 662,
+      "b": 671,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 44,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 662,
+      "b": 672,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 52,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 663,
+      "b": 667,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 663,
+      "b": 668,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 663,
+      "b": 669,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 18,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 663,
+      "b": 670,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 34,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 663,
+      "b": 671,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 43,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 663,
+      "b": 672,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 51,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 663,
+      "b": 673,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 64,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 664,
+      "b": 667,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 664,
+      "b": 668,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 664,
+      "b": 669,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 664,
+      "b": 670,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 33,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 664,
+      "b": 671,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 42,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 664,
+      "b": 672,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 50,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 664,
+      "b": 673,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 63,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 664,
+      "b": 674,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 64,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 665,
+      "b": 667,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 665,
+      "b": 668,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 665,
+      "b": 669,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 665,
+      "b": 670,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 32,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 665,
+      "b": 671,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 41,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 665,
+      "b": 672,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 49,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 665,
+      "b": 673,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 62,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 665,
+      "b": 674,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 63,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 665,
+      "b": 675,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 64,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 666,
+      "b": 667,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 666,
+      "b": 668,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 666,
+      "b": 669,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 666,
+      "b": 670,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 31,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 666,
+      "b": 671,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 40,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 666,
+      "b": 672,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 48,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 666,
+      "b": 673,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 61,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 666,
+      "b": 674,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 62,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 666,
+      "b": 675,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 63,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 666,
+      "b": 676,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 64,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 667,
+      "b": 673,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 59,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 667,
+      "b": 674,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 60,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 667,
+      "b": 675,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 61,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 667,
+      "b": 676,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 62,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 667,
+      "b": 677,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 63,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 668,
+      "b": 673,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 52,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 668,
+      "b": 674,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 53,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 668,
+      "b": 675,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 54,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 668,
+      "b": 676,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 55,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 668,
+      "b": 677,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 56,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 668,
+      "b": 678,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 68,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 669,
+      "b": 673,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 46,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 669,
+      "b": 674,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 47,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 669,
+      "b": 675,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 48,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 669,
+      "b": 676,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 49,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 669,
+      "b": 677,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 50,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 669,
+      "b": 678,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 62,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 669,
+      "b": 679,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 74,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 670,
+      "b": 673,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 30,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 670,
+      "b": 674,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 31,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 670,
+      "b": 675,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 32,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 670,
+      "b": 676,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 33,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 670,
+      "b": 677,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 34,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 670,
+      "b": 678,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 46,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 670,
+      "b": 679,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 58,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 670,
+      "b": 680,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 67,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 671,
+      "b": 673,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 21,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 671,
+      "b": 674,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 22,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 671,
+      "b": 675,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 23,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 671,
+      "b": 676,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 24,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 671,
+      "b": 677,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 25,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 671,
+      "b": 678,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 37,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 671,
+      "b": 679,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 49,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 671,
+      "b": 680,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 58,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 671,
+      "b": 681,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 62,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 672,
+      "b": 673,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 672,
+      "b": 674,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 672,
+      "b": 675,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 672,
+      "b": 676,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 672,
+      "b": 677,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 672,
+      "b": 678,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 29,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 672,
+      "b": 679,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 41,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 672,
+      "b": 680,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 50,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 672,
+      "b": 681,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 54,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 672,
+      "b": 682,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 61,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 673,
+      "b": 677,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 673,
+      "b": 678,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 673,
+      "b": 679,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 28,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 673,
+      "b": 680,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 37,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 673,
+      "b": 681,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 41,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 673,
+      "b": 682,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 48,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 673,
+      "b": 23421,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 86,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 674,
+      "b": 677,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 674,
+      "b": 678,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 674,
+      "b": 679,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 27,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 674,
+      "b": 680,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 36,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 674,
+      "b": 681,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 40,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 674,
+      "b": 682,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 47,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 674,
+      "b": 23421,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 85,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 674,
+      "b": 23422,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 86,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 675,
+      "b": 677,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 675,
+      "b": 678,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 675,
+      "b": 679,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 26,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 675,
+      "b": 680,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 35,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 675,
+      "b": 681,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 39,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 675,
+      "b": 682,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 46,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 675,
+      "b": 23421,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 84,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 675,
+      "b": 23422,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 85,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 675,
+      "b": 23423,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 86,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 676,
+      "b": 677,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 676,
+      "b": 678,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 676,
+      "b": 679,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 25,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 676,
+      "b": 680,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 34,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 676,
+      "b": 681,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 38,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 676,
+      "b": 682,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 45,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 676,
+      "b": 23421,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 83,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 676,
+      "b": 23422,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 84,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 676,
+      "b": 23423,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 85,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 676,
+      "b": 23424,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 86,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 677,
+      "b": 23421,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 82,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 677,
+      "b": 23422,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 83,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 677,
+      "b": 23423,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 84,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 677,
+      "b": 23424,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 85,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 677,
+      "b": 23425,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 86,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 678,
+      "b": 23421,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 70,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 678,
+      "b": 23422,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 71,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 678,
+      "b": 23423,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 72,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 678,
+      "b": 23424,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 73,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 678,
+      "b": 23425,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 74,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 678,
+      "b": 23426,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 75,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 679,
+      "b": 23421,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 58,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 679,
+      "b": 23422,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 59,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 679,
+      "b": 23423,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 60,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 679,
+      "b": 23424,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 61,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 679,
+      "b": 23425,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 62,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 679,
+      "b": 23426,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 63,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 679,
+      "b": 23427,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 64,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 680,
+      "b": 23421,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 49,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 680,
+      "b": 23422,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 50,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 680,
+      "b": 23423,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 51,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 680,
+      "b": 23424,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 52,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 680,
+      "b": 23425,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 53,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 680,
+      "b": 23426,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 54,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 680,
+      "b": 23427,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 55,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 680,
+      "b": 23428,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 56,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 681,
+      "b": 23421,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 45,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 681,
+      "b": 23422,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 46,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 681,
+      "b": 23423,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 47,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 681,
+      "b": 23424,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 48,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 681,
+      "b": 23425,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 49,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 681,
+      "b": 23426,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 50,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 681,
+      "b": 23427,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 51,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 681,
+      "b": 23428,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 52,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 682,
+      "b": 23421,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 38,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 682,
+      "b": 23422,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 39,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 682,
+      "b": 23423,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 40,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 682,
+      "b": 23424,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 41,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 682,
+      "b": 23425,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 42,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 682,
+      "b": 23426,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 43,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 682,
+      "b": 23427,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 44,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 682,
+      "b": 23428,
+      "source_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 45,
+      "kind": "curator_preference_observation"
+    }
+  ],
+  "metrics": {
+    "acyclic": true,
+    "primary_order_valid": true,
+    "same_series_order_valid": true,
+    "primary_length": 33,
+    "nodes_in_graph": 33,
+    "series_edges_checked": 27,
+    "initial_frontier_width": 6,
+    "edge_density": 0.025568,
+    "freedom_note": "frontier width and density are deterministic freedom measures; no randomized-order count",
+    "pre_reduction_edge_count": 27,
+    "post_reduction_edge_count": 27,
+    "parallelism_interpretation": "parallel lanes are represented by absent cross-thread hard edges; no parallel edges are manufactured"
+  }
+}

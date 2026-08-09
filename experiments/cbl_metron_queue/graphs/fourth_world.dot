@@ -1,0 +1,13 @@
+digraph fourth_world {
+  "25980" -> "25981" [label="series_spine"];
+  "25981" -> "25982" [label="series_spine"];
+  "25982" -> "25983" [label="series_spine"];
+  "25983" -> "25984" [label="series_spine"];
+  "25984" -> "25985" [label="series_spine"];
+  "25985" -> "25986" [label="series_spine"];
+  "25986" -> "25987" [label="series_spine"];
+  "25987" -> "25988" [label="series_spine"];
+  "25988" -> "25989" [label="series_spine"];
+  "25989" -> "25990" [label="series_spine"];
+  "25990" -> "25985" [label="series_spine"];
+}

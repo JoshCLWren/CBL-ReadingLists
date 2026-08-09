@@ -1,0 +1,2405 @@
+{
+  "case": "onslaught",
+  "primary_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+  "secondary_files_considered": [
+    "Marvel/Events/LoCG/[1996] Onslaught (Marvel Comics)(LoCG).cbl",
+    "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+  ],
+  "nodes": [
+    {
+      "id": 1990,
+      "type": "issue",
+      "title": "Uncanny X-men",
+      "issue": "322",
+      "thread_id": 305
+    },
+    {
+      "id": 1599,
+      "type": "issue",
+      "title": "X-men",
+      "issue": "46",
+      "thread_id": 98
+    },
+    {
+      "id": 735,
+      "type": "issue",
+      "title": "X-Force",
+      "issue": "52",
+      "thread_id": 102
+    },
+    {
+      "id": 1602,
+      "type": "issue",
+      "title": "X-men",
+      "issue": "49",
+      "thread_id": 98
+    },
+    {
+      "id": 2000,
+      "type": "issue",
+      "title": "Uncanny X-men",
+      "issue": "332",
+      "thread_id": 305
+    },
+    {
+      "id": 738,
+      "type": "issue",
+      "title": "X-Force",
+      "issue": "55",
+      "thread_id": 102
+    },
+    {
+      "id": 1603,
+      "type": "issue",
+      "title": "X-men",
+      "issue": "50",
+      "thread_id": 98
+    },
+    {
+      "id": 739,
+      "type": "issue",
+      "title": "X-Force",
+      "issue": "56",
+      "thread_id": 102
+    },
+    {
+      "id": 1604,
+      "type": "issue",
+      "title": "X-men",
+      "issue": "51",
+      "thread_id": 98
+    },
+    {
+      "id": 1605,
+      "type": "issue",
+      "title": "X-men",
+      "issue": "52",
+      "thread_id": 98
+    },
+    {
+      "id": 2001,
+      "type": "issue",
+      "title": "Uncanny X-men",
+      "issue": "333",
+      "thread_id": 305
+    },
+    {
+      "id": 633,
+      "type": "issue",
+      "title": "Excalibur",
+      "issue": "99",
+      "thread_id": 100
+    },
+    {
+      "id": 508,
+      "type": "issue",
+      "title": "X-Man",
+      "issue": "15",
+      "thread_id": 96
+    },
+    {
+      "id": 509,
+      "type": "issue",
+      "title": "X-Man",
+      "issue": "16",
+      "thread_id": 96
+    },
+    {
+      "id": 510,
+      "type": "issue",
+      "title": "X-Man",
+      "issue": "17",
+      "thread_id": 96
+    },
+    {
+      "id": 1401,
+      "type": "issue",
+      "title": "Cable",
+      "issue": "32",
+      "thread_id": 76
+    },
+    {
+      "id": 1402,
+      "type": "issue",
+      "title": "Cable",
+      "issue": "33",
+      "thread_id": 76
+    },
+    {
+      "id": 1606,
+      "type": "issue",
+      "title": "X-men",
+      "issue": "53",
+      "thread_id": 98
+    },
+    {
+      "id": 2002,
+      "type": "issue",
+      "title": "Uncanny X-men",
+      "issue": "334",
+      "thread_id": 305
+    },
+    {
+      "id": 2003,
+      "type": "issue",
+      "title": "Uncanny X-men",
+      "issue": "335",
+      "thread_id": 305
+    },
+    {
+      "id": 511,
+      "type": "issue",
+      "title": "X-Man",
+      "issue": "18",
+      "thread_id": 96
+    },
+    {
+      "id": 740,
+      "type": "issue",
+      "title": "X-Force",
+      "issue": "57",
+      "thread_id": 102
+    },
+    {
+      "id": 1403,
+      "type": "issue",
+      "title": "Cable",
+      "issue": "34",
+      "thread_id": 76
+    },
+    {
+      "id": 634,
+      "type": "issue",
+      "title": "Excalibur",
+      "issue": "100",
+      "thread_id": 100
+    },
+    {
+      "id": 1042,
+      "type": "issue",
+      "title": "X-Factor",
+      "issue": "125",
+      "thread_id": 74
+    },
+    {
+      "id": 820,
+      "type": "issue",
+      "title": "Generation X",
+      "issue": "18",
+      "thread_id": 84
+    },
+    {
+      "id": 2004,
+      "type": "issue",
+      "title": "Uncanny X-men",
+      "issue": "336",
+      "thread_id": 305
+    },
+    {
+      "id": 1043,
+      "type": "issue",
+      "title": "X-Factor",
+      "issue": "126",
+      "thread_id": 74
+    },
+    {
+      "id": 1404,
+      "type": "issue",
+      "title": "Cable",
+      "issue": "35",
+      "thread_id": 76
+    },
+    {
+      "id": 741,
+      "type": "issue",
+      "title": "X-Force",
+      "issue": "58",
+      "thread_id": 102
+    },
+    {
+      "id": 512,
+      "type": "issue",
+      "title": "X-Man",
+      "issue": "19",
+      "thread_id": 96
+    },
+    {
+      "id": 821,
+      "type": "issue",
+      "title": "Generation X",
+      "issue": "19",
+      "thread_id": 84
+    },
+    {
+      "id": 2005,
+      "type": "issue",
+      "title": "Uncanny X-men",
+      "issue": "337",
+      "thread_id": 305
+    }
+  ],
+  "edges": [
+    {
+      "from": 1990,
+      "to": 2000,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 2000,
+      "to": 2001,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 2001,
+      "to": 2002,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 2002,
+      "to": 2003,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 2003,
+      "to": 2004,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 2004,
+      "to": 2005,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 1599,
+      "to": 1602,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 1602,
+      "to": 1603,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 1603,
+      "to": 1604,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 1604,
+      "to": 1605,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 1605,
+      "to": 1606,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 735,
+      "to": 738,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 738,
+      "to": 739,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 739,
+      "to": 740,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 740,
+      "to": 741,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 633,
+      "to": 634,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 508,
+      "to": 509,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 509,
+      "to": 510,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 510,
+      "to": 511,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 511,
+      "to": 512,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 1401,
+      "to": 1402,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 1402,
+      "to": 1403,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 1403,
+      "to": 1404,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 1042,
+      "to": 1043,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 820,
+      "to": 821,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl"
+      ]
+    }
+  ],
+  "curator_preference_evidence": [
+    {
+      "a": 1990,
+      "b": 1599,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1990,
+      "b": 735,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1990,
+      "b": 1602,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1990,
+      "b": 738,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1990,
+      "b": 1603,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1990,
+      "b": 739,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1990,
+      "b": 1604,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1990,
+      "b": 1605,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1599,
+      "b": 735,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1599,
+      "b": 2000,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1599,
+      "b": 738,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1599,
+      "b": 739,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1599,
+      "b": 2001,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1599,
+      "b": 633,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 735,
+      "b": 1602,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 735,
+      "b": 2000,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 735,
+      "b": 1603,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 735,
+      "b": 1604,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 735,
+      "b": 1605,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 735,
+      "b": 2001,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 735,
+      "b": 633,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 735,
+      "b": 508,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1602,
+      "b": 2000,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1602,
+      "b": 738,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1602,
+      "b": 739,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1602,
+      "b": 2001,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1602,
+      "b": 633,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1602,
+      "b": 508,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1602,
+      "b": 509,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2000,
+      "b": 738,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2000,
+      "b": 1603,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2000,
+      "b": 739,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2000,
+      "b": 1604,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2000,
+      "b": 1605,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2000,
+      "b": 633,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2000,
+      "b": 508,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2000,
+      "b": 509,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2000,
+      "b": 510,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 738,
+      "b": 1603,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 738,
+      "b": 1604,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 738,
+      "b": 1605,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 738,
+      "b": 2001,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 738,
+      "b": 633,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 738,
+      "b": 508,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 738,
+      "b": 509,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 738,
+      "b": 510,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 738,
+      "b": 1401,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1603,
+      "b": 739,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1603,
+      "b": 2001,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1603,
+      "b": 633,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1603,
+      "b": 508,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1603,
+      "b": 509,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1603,
+      "b": 510,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1603,
+      "b": 1401,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1603,
+      "b": 1402,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 739,
+      "b": 1604,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 739,
+      "b": 1605,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 739,
+      "b": 2001,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 739,
+      "b": 633,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 739,
+      "b": 508,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 739,
+      "b": 509,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 739,
+      "b": 510,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 739,
+      "b": 1401,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 739,
+      "b": 1402,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 739,
+      "b": 1606,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1604,
+      "b": 2001,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1604,
+      "b": 633,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1604,
+      "b": 508,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1604,
+      "b": 509,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1604,
+      "b": 510,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1604,
+      "b": 1401,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1604,
+      "b": 1402,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1604,
+      "b": 2002,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1605,
+      "b": 2001,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1605,
+      "b": 633,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1605,
+      "b": 508,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1605,
+      "b": 509,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1605,
+      "b": 510,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1605,
+      "b": 1401,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1605,
+      "b": 1402,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1605,
+      "b": 2002,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1605,
+      "b": 2003,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2001,
+      "b": 633,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2001,
+      "b": 508,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2001,
+      "b": 509,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2001,
+      "b": 510,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2001,
+      "b": 1401,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2001,
+      "b": 1402,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2001,
+      "b": 1606,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2001,
+      "b": 511,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 633,
+      "b": 508,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 633,
+      "b": 509,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 633,
+      "b": 510,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 633,
+      "b": 1401,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 633,
+      "b": 1402,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 633,
+      "b": 1606,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 633,
+      "b": 2002,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 633,
+      "b": 2003,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 633,
+      "b": 511,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 633,
+      "b": 740,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 508,
+      "b": 1401,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 508,
+      "b": 1402,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 508,
+      "b": 1606,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 508,
+      "b": 2002,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 508,
+      "b": 2003,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 508,
+      "b": 740,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 508,
+      "b": 1403,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 509,
+      "b": 1401,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 509,
+      "b": 1402,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 509,
+      "b": 1606,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 509,
+      "b": 2002,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 509,
+      "b": 2003,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 509,
+      "b": 740,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 509,
+      "b": 1403,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 509,
+      "b": 634,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 510,
+      "b": 1401,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 510,
+      "b": 1402,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 510,
+      "b": 1606,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 510,
+      "b": 2002,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 510,
+      "b": 2003,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 510,
+      "b": 740,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 510,
+      "b": 1403,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 510,
+      "b": 634,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 510,
+      "b": 1042,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1401,
+      "b": 1606,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1401,
+      "b": 2002,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1401,
+      "b": 2003,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1401,
+      "b": 511,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1401,
+      "b": 740,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1401,
+      "b": 634,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1401,
+      "b": 1042,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1401,
+      "b": 820,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1402,
+      "b": 1606,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1402,
+      "b": 2002,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1402,
+      "b": 2003,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1402,
+      "b": 511,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1402,
+      "b": 740,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1402,
+      "b": 634,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1402,
+      "b": 1042,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1402,
+      "b": 820,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1402,
+      "b": 2004,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 19,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1606,
+      "b": 2002,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1606,
+      "b": 2003,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1606,
+      "b": 511,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1606,
+      "b": 740,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1606,
+      "b": 1403,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1606,
+      "b": 634,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1606,
+      "b": 1042,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1606,
+      "b": 820,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1606,
+      "b": 2004,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 18,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1606,
+      "b": 1043,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 19,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2002,
+      "b": 511,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2002,
+      "b": 740,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2002,
+      "b": 1403,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2002,
+      "b": 634,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2002,
+      "b": 1042,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2002,
+      "b": 820,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2002,
+      "b": 1043,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2002,
+      "b": 1404,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 18,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2003,
+      "b": 511,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2003,
+      "b": 740,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2003,
+      "b": 1403,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2003,
+      "b": 634,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2003,
+      "b": 1042,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2003,
+      "b": 820,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2003,
+      "b": 1043,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2003,
+      "b": 1404,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2003,
+      "b": 741,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 511,
+      "b": 740,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 511,
+      "b": 1403,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 511,
+      "b": 634,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 511,
+      "b": 1042,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 511,
+      "b": 820,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 511,
+      "b": 2004,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 511,
+      "b": 1043,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 511,
+      "b": 1404,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 13,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 511,
+      "b": 741,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 740,
+      "b": 1403,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 740,
+      "b": 634,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 740,
+      "b": 1042,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 740,
+      "b": 820,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 740,
+      "b": 2004,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 740,
+      "b": 1043,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 740,
+      "b": 1404,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 740,
+      "b": 512,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 18,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 740,
+      "b": 821,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 21,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1403,
+      "b": 634,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1403,
+      "b": 1042,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1403,
+      "b": 820,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1403,
+      "b": 2004,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1403,
+      "b": 1043,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1403,
+      "b": 741,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1403,
+      "b": 512,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1403,
+      "b": 821,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 20,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1403,
+      "b": 2005,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 27,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 634,
+      "b": 1042,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 634,
+      "b": 820,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 634,
+      "b": 2004,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 634,
+      "b": 1043,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 634,
+      "b": 1404,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 634,
+      "b": 741,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 634,
+      "b": 512,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 14,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 634,
+      "b": 821,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 634,
+      "b": 2005,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 24,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1042,
+      "b": 820,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1042,
+      "b": 2004,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1042,
+      "b": 1404,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1042,
+      "b": 741,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1042,
+      "b": 512,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 12,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1042,
+      "b": 821,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1042,
+      "b": 2005,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 22,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 820,
+      "b": 2004,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 820,
+      "b": 1043,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 820,
+      "b": 1404,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 820,
+      "b": 741,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 820,
+      "b": 512,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 820,
+      "b": 2005,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 21,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2004,
+      "b": 1043,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2004,
+      "b": 1404,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2004,
+      "b": 741,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2004,
+      "b": 512,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 2004,
+      "b": 821,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1043,
+      "b": 1404,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1043,
+      "b": 741,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1043,
+      "b": 512,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1043,
+      "b": 821,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1043,
+      "b": 2005,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 17,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1404,
+      "b": 741,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1404,
+      "b": 512,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1404,
+      "b": 821,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 1404,
+      "b": 2005,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 16,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 741,
+      "b": 512,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 741,
+      "b": 821,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 741,
+      "b": 2005,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 15,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 512,
+      "b": 821,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 512,
+      "b": 2005,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 821,
+      "b": 2005,
+      "source_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    }
+  ],
+  "metrics": {
+    "acyclic": true,
+    "primary_order_valid": true,
+    "same_series_order_valid": true,
+    "primary_length": 33,
+    "nodes_in_graph": 33,
+    "series_edges_checked": 25,
+    "initial_frontier_width": 8,
+    "edge_density": 0.023674,
+    "freedom_note": "frontier width and density are deterministic freedom measures; no randomized-order count",
+    "pre_reduction_edge_count": 25,
+    "post_reduction_edge_count": 25,
+    "parallelism_interpretation": "parallel lanes are represented by absent cross-thread hard edges; no parallel edges are manufactured"
+  }
+}

@@ -1,0 +1,2908 @@
+{
+  "case": "fourth_world",
+  "primary_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+  "secondary_files_considered": [
+    "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+  ],
+  "nodes": [
+    {
+      "id": 25980,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "1",
+      "thread_id": 3513
+    },
+    {
+      "id": 25981,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "2",
+      "thread_id": 3513
+    },
+    {
+      "id": 25982,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "3",
+      "thread_id": 3513
+    },
+    {
+      "id": 25983,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "4",
+      "thread_id": 3513
+    },
+    {
+      "id": 25984,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "5",
+      "thread_id": 3513
+    },
+    {
+      "id": 25985,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "6",
+      "thread_id": 3513
+    },
+    {
+      "id": 25991,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "1",
+      "thread_id": 3514
+    },
+    {
+      "id": 26457,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "1",
+      "thread_id": 3529
+    },
+    {
+      "id": 25992,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "2",
+      "thread_id": 3514
+    },
+    {
+      "id": 26458,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "2",
+      "thread_id": 3529
+    },
+    {
+      "id": 25993,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "3",
+      "thread_id": 3514
+    },
+    {
+      "id": 26459,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "3",
+      "thread_id": 3529
+    },
+    {
+      "id": 25994,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "4",
+      "thread_id": 3514
+    },
+    {
+      "id": 26460,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "4",
+      "thread_id": 3529
+    },
+    {
+      "id": 25995,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "5",
+      "thread_id": 3514
+    },
+    {
+      "id": 26461,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "5",
+      "thread_id": 3529
+    },
+    {
+      "id": 25996,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "6",
+      "thread_id": 3514
+    },
+    {
+      "id": 26462,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "6",
+      "thread_id": 3529
+    },
+    {
+      "id": 25986,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "7",
+      "thread_id": 3513
+    },
+    {
+      "id": 25987,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "8",
+      "thread_id": 3513
+    },
+    {
+      "id": 25988,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "9",
+      "thread_id": 3513
+    },
+    {
+      "id": 25989,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "10",
+      "thread_id": 3513
+    },
+    {
+      "id": 25990,
+      "type": "issue",
+      "title": "The New Gods",
+      "issue": "11",
+      "thread_id": 3513
+    },
+    {
+      "id": 25997,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "7",
+      "thread_id": 3514
+    },
+    {
+      "id": 26463,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "7",
+      "thread_id": 3529
+    },
+    {
+      "id": 25998,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "8",
+      "thread_id": 3514
+    },
+    {
+      "id": 26464,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "8",
+      "thread_id": 3529
+    },
+    {
+      "id": 25999,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "9",
+      "thread_id": 3514
+    },
+    {
+      "id": 26465,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "9",
+      "thread_id": 3529
+    },
+    {
+      "id": 26000,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "10",
+      "thread_id": 3514
+    },
+    {
+      "id": 26466,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "10",
+      "thread_id": 3529
+    },
+    {
+      "id": 26001,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "11",
+      "thread_id": 3514
+    },
+    {
+      "id": 26467,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "11",
+      "thread_id": 3529
+    },
+    {
+      "id": 26002,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "12",
+      "thread_id": 3514
+    },
+    {
+      "id": 26468,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "12",
+      "thread_id": 3529
+    },
+    {
+      "id": 26003,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "13",
+      "thread_id": 3514
+    },
+    {
+      "id": 26469,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "13",
+      "thread_id": 3529
+    },
+    {
+      "id": 26004,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "14",
+      "thread_id": 3514
+    },
+    {
+      "id": 26470,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "14",
+      "thread_id": 3529
+    },
+    {
+      "id": 26005,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "15",
+      "thread_id": 3514
+    },
+    {
+      "id": 26471,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "15",
+      "thread_id": 3529
+    },
+    {
+      "id": 26006,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "16",
+      "thread_id": 3514
+    },
+    {
+      "id": 26472,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "16",
+      "thread_id": 3529
+    },
+    {
+      "id": 26007,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "17",
+      "thread_id": 3514
+    },
+    {
+      "id": 26473,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "17",
+      "thread_id": 3529
+    },
+    {
+      "id": 26008,
+      "type": "issue",
+      "title": "Mister Miracle",
+      "issue": "18",
+      "thread_id": 3514
+    },
+    {
+      "id": 26474,
+      "type": "issue",
+      "title": "Mister Miracle (1989\u20131991)",
+      "issue": "18",
+      "thread_id": 3529
+    }
+  ],
+  "edges": [
+    {
+      "from": 25980,
+      "to": 25981,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25981,
+      "to": 25982,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25982,
+      "to": 25983,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25983,
+      "to": 25984,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25984,
+      "to": 25985,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25985,
+      "to": 25986,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25986,
+      "to": 25987,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25987,
+      "to": 25988,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25988,
+      "to": 25989,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25989,
+      "to": 25990,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25991,
+      "to": 25992,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25992,
+      "to": 25993,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25993,
+      "to": 25994,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25994,
+      "to": 25995,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25995,
+      "to": 25996,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25996,
+      "to": 25997,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25997,
+      "to": 25998,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25998,
+      "to": 25999,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 25999,
+      "to": 26000,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26000,
+      "to": 26001,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26001,
+      "to": 26002,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26002,
+      "to": 26003,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26003,
+      "to": 26004,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26004,
+      "to": 26005,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26005,
+      "to": 26006,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26006,
+      "to": 26007,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26007,
+      "to": 26008,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26457,
+      "to": 26458,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26458,
+      "to": 26459,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26459,
+      "to": 26460,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26460,
+      "to": 26461,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26461,
+      "to": 26462,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26462,
+      "to": 26463,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26463,
+      "to": 26464,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26464,
+      "to": 26465,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26465,
+      "to": 26466,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26466,
+      "to": 26467,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26467,
+      "to": 26468,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26468,
+      "to": 26469,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26469,
+      "to": 26470,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26470,
+      "to": 26471,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26471,
+      "to": 26472,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26472,
+      "to": 26473,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    },
+    {
+      "from": 26473,
+      "to": 26474,
+      "edge_type": "series_spine",
+      "strength": "must_precede",
+      "confidence": 1.0,
+      "evidence": [
+        "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl"
+      ]
+    }
+  ],
+  "curator_preference_evidence": [
+    {
+      "a": 25980,
+      "b": 25991,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25980,
+      "b": 26457,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25980,
+      "b": 25992,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25980,
+      "b": 26458,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25980,
+      "b": 25993,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25981,
+      "b": 25991,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25981,
+      "b": 26457,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25981,
+      "b": 25992,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25981,
+      "b": 26458,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25981,
+      "b": 25993,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25981,
+      "b": 26459,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25982,
+      "b": 25991,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25982,
+      "b": 26457,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25982,
+      "b": 25992,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25982,
+      "b": 26458,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25982,
+      "b": 25993,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25982,
+      "b": 26459,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25982,
+      "b": 25994,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25983,
+      "b": 25991,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25983,
+      "b": 26457,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25983,
+      "b": 25992,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25983,
+      "b": 26458,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25983,
+      "b": 25993,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25983,
+      "b": 26459,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25983,
+      "b": 25994,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25983,
+      "b": 26460,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25984,
+      "b": 25991,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25984,
+      "b": 26457,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25984,
+      "b": 25992,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25984,
+      "b": 26458,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25984,
+      "b": 25993,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25984,
+      "b": 26459,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25984,
+      "b": 25994,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25984,
+      "b": 26460,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25984,
+      "b": 25995,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25985,
+      "b": 25991,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25985,
+      "b": 26457,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25985,
+      "b": 25992,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25985,
+      "b": 26458,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25985,
+      "b": 25993,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25985,
+      "b": 26459,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25985,
+      "b": 25994,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25985,
+      "b": 26460,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25985,
+      "b": 25995,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25985,
+      "b": 26461,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25991,
+      "b": 26457,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25991,
+      "b": 26458,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25991,
+      "b": 26459,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25991,
+      "b": 26460,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25991,
+      "b": 26461,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26457,
+      "b": 25992,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26457,
+      "b": 25993,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26457,
+      "b": 25994,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26457,
+      "b": 25995,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26457,
+      "b": 25996,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25992,
+      "b": 26458,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25992,
+      "b": 26459,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25992,
+      "b": 26460,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25992,
+      "b": 26461,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25992,
+      "b": 26462,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25992,
+      "b": 25986,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26458,
+      "b": 25993,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26458,
+      "b": 25994,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26458,
+      "b": 25995,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26458,
+      "b": 25996,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26458,
+      "b": 25986,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26458,
+      "b": 25987,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25993,
+      "b": 26459,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25993,
+      "b": 26460,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25993,
+      "b": 26461,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25993,
+      "b": 26462,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25993,
+      "b": 25986,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25993,
+      "b": 25987,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25993,
+      "b": 25988,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26459,
+      "b": 25994,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26459,
+      "b": 25995,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26459,
+      "b": 25996,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26459,
+      "b": 25986,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26459,
+      "b": 25987,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26459,
+      "b": 25988,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26459,
+      "b": 25989,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25994,
+      "b": 26460,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25994,
+      "b": 26461,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25994,
+      "b": 26462,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25994,
+      "b": 25986,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25994,
+      "b": 25987,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25994,
+      "b": 25988,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25994,
+      "b": 25989,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25994,
+      "b": 25990,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26460,
+      "b": 25995,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26460,
+      "b": 25996,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26460,
+      "b": 25986,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26460,
+      "b": 25987,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26460,
+      "b": 25988,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26460,
+      "b": 25989,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26460,
+      "b": 25990,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26460,
+      "b": 25997,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25995,
+      "b": 26461,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25995,
+      "b": 26462,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25995,
+      "b": 25986,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25995,
+      "b": 25987,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25995,
+      "b": 25988,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25995,
+      "b": 25989,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25995,
+      "b": 25990,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25995,
+      "b": 26463,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26461,
+      "b": 25996,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26461,
+      "b": 25986,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26461,
+      "b": 25987,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26461,
+      "b": 25988,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26461,
+      "b": 25989,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26461,
+      "b": 25990,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26461,
+      "b": 25997,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26461,
+      "b": 25998,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25996,
+      "b": 26462,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25996,
+      "b": 25986,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25996,
+      "b": 25987,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25996,
+      "b": 25988,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25996,
+      "b": 25989,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25996,
+      "b": 25990,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25996,
+      "b": 26463,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25996,
+      "b": 26464,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26462,
+      "b": 25986,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26462,
+      "b": 25987,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26462,
+      "b": 25988,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26462,
+      "b": 25989,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26462,
+      "b": 25990,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 8,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26462,
+      "b": 25997,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 9,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26462,
+      "b": 25998,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 10,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26462,
+      "b": 25999,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 11,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25986,
+      "b": 25997,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25986,
+      "b": 26463,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25986,
+      "b": 25998,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25986,
+      "b": 26464,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25986,
+      "b": 25999,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25986,
+      "b": 26465,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25987,
+      "b": 25997,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25987,
+      "b": 26463,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25987,
+      "b": 25998,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25987,
+      "b": 26464,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25987,
+      "b": 25999,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25987,
+      "b": 26465,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25987,
+      "b": 26000,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 7,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25988,
+      "b": 25997,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25988,
+      "b": 26463,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25988,
+      "b": 25998,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25988,
+      "b": 26464,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25988,
+      "b": 25999,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25988,
+      "b": 26465,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25988,
+      "b": 26000,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25988,
+      "b": 26466,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25989,
+      "b": 25997,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25989,
+      "b": 26463,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25989,
+      "b": 25998,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25989,
+      "b": 26464,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25989,
+      "b": 25999,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25989,
+      "b": 26465,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25989,
+      "b": 26000,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25989,
+      "b": 26466,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25989,
+      "b": 26001,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 6,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25990,
+      "b": 25997,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25990,
+      "b": 26463,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25990,
+      "b": 25998,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25990,
+      "b": 26464,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25990,
+      "b": 25999,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25990,
+      "b": 26465,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25990,
+      "b": 26000,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25990,
+      "b": 26466,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25990,
+      "b": 26001,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25990,
+      "b": 26467,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25997,
+      "b": 26463,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25997,
+      "b": 26464,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25997,
+      "b": 26465,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25997,
+      "b": 26466,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25997,
+      "b": 26467,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26463,
+      "b": 25998,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26463,
+      "b": 25999,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26463,
+      "b": 26000,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26463,
+      "b": 26001,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26463,
+      "b": 26002,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25998,
+      "b": 26464,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25998,
+      "b": 26465,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25998,
+      "b": 26466,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25998,
+      "b": 26467,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25998,
+      "b": 26468,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26464,
+      "b": 25999,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26464,
+      "b": 26000,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26464,
+      "b": 26001,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26464,
+      "b": 26002,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26464,
+      "b": 26003,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25999,
+      "b": 26465,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25999,
+      "b": 26466,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25999,
+      "b": 26467,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25999,
+      "b": 26468,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 25999,
+      "b": 26469,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26465,
+      "b": 26000,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26465,
+      "b": 26001,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26465,
+      "b": 26002,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26465,
+      "b": 26003,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26465,
+      "b": 26004,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26000,
+      "b": 26466,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26000,
+      "b": 26467,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26000,
+      "b": 26468,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26000,
+      "b": 26469,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26000,
+      "b": 26470,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26466,
+      "b": 26001,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26466,
+      "b": 26002,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26466,
+      "b": 26003,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26466,
+      "b": 26004,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26466,
+      "b": 26005,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26001,
+      "b": 26467,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26001,
+      "b": 26468,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26001,
+      "b": 26469,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26001,
+      "b": 26470,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26001,
+      "b": 26471,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26467,
+      "b": 26002,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26467,
+      "b": 26003,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26467,
+      "b": 26004,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26467,
+      "b": 26005,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26467,
+      "b": 26006,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26002,
+      "b": 26468,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26002,
+      "b": 26469,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26002,
+      "b": 26470,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26002,
+      "b": 26471,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26002,
+      "b": 26472,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26468,
+      "b": 26003,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26468,
+      "b": 26004,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26468,
+      "b": 26005,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26468,
+      "b": 26006,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26468,
+      "b": 26007,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26003,
+      "b": 26469,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26003,
+      "b": 26470,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26003,
+      "b": 26471,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26003,
+      "b": 26472,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26003,
+      "b": 26473,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26469,
+      "b": 26004,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26469,
+      "b": 26005,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26469,
+      "b": 26006,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26469,
+      "b": 26007,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26469,
+      "b": 26008,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 5,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26004,
+      "b": 26470,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26004,
+      "b": 26471,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26004,
+      "b": 26472,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26004,
+      "b": 26473,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26004,
+      "b": 26474,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26470,
+      "b": 26005,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26470,
+      "b": 26006,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26470,
+      "b": 26007,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26470,
+      "b": 26008,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 4,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26005,
+      "b": 26471,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26005,
+      "b": 26472,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26005,
+      "b": 26473,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26005,
+      "b": 26474,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26471,
+      "b": 26006,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26471,
+      "b": 26007,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26471,
+      "b": 26008,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 3,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26006,
+      "b": 26472,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26006,
+      "b": 26473,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26006,
+      "b": 26474,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26472,
+      "b": 26007,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26472,
+      "b": 26008,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 2,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26007,
+      "b": 26473,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26007,
+      "b": 26474,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26473,
+      "b": 26008,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 1,
+      "kind": "curator_preference_observation"
+    },
+    {
+      "a": 26008,
+      "b": 26474,
+      "source_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+      "source_family": "WEB-CBRO",
+      "distance": 0,
+      "kind": "curator_preference_observation"
+    }
+  ],
+  "metrics": {
+    "acyclic": true,
+    "primary_order_valid": true,
+    "same_series_order_valid": true,
+    "primary_length": 47,
+    "nodes_in_graph": 47,
+    "series_edges_checked": 44,
+    "initial_frontier_width": 3,
+    "edge_density": 0.020352,
+    "freedom_note": "frontier width and density are deterministic freedom measures; no randomized-order count",
+    "pre_reduction_edge_count": 44,
+    "post_reduction_edge_count": 44,
+    "parallelism_interpretation": "parallel lanes are represented by absent cross-thread hard edges; no parallel edges are manufactured"
+  }
+}

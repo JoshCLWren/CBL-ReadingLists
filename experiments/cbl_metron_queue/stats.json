@@ -1,0 +1,13 @@
+{
+  "threads": 166,
+  "issues": 3332,
+  "matched_threads": 98,
+  "exact": 20096,
+  "fuzzy": 88,
+  "unresolved": 873,
+  "ambiguous": 77,
+  "cbl_files": 1702,
+  "cbl_entries": 336324,
+  "hard": 0,
+  "soft": 0
+}

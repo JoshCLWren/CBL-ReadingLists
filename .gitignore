@@ -2,3 +2,9 @@
 .vscode
 report.json
 __pycache__/
+
+# Large generated experiment data (not suitable for git)
+experiments/cbl_metron_queue/cbl_cache.json
+experiments/cbl_metron_queue/ordering_evidence.json
+experiments/cbl_metron_queue/overlapping_lists.json
+experiments/cbl_metron_queue/queue_matches.json

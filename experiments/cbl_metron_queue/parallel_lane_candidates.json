@@ -1,0 +1,2684 @@
+[
+  {
+    "lane_id": "exploratory-1",
+    "cbl_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      189,
+      101,
+      296,
+      297,
+      298,
+      3179
+    ],
+    "collapsed_thread_sequence": [
+      189,
+      101,
+      296,
+      297,
+      298,
+      3179
+    ],
+    "thread_issue_subsequences": {
+      "189": [
+        [
+          15,
+          1543
+        ],
+        [
+          21,
+          1548
+        ]
+      ],
+      "101": [
+        [
+          89,
+          660
+        ],
+        [
+          96,
+          661
+        ],
+        [
+          97,
+          662
+        ],
+        [
+          98,
+          663
+        ],
+        [
+          99,
+          664
+        ],
+        [
+          100,
+          665
+        ],
+        [
+          101,
+          666
+        ]
+      ],
+      "296": [
+        [
+          103,
+          667
+        ],
+        [
+          110,
+          668
+        ],
+        [
+          116,
+          669
+        ],
+        [
+          132,
+          670
+        ],
+        [
+          141,
+          671
+        ],
+        [
+          149,
+          672
+        ]
+      ],
+      "297": [
+        [
+          162,
+          673
+        ],
+        [
+          163,
+          674
+        ],
+        [
+          164,
+          675
+        ],
+        [
+          165,
+          676
+        ]
+      ],
+      "298": [
+        [
+          166,
+          677
+        ],
+        [
+          178,
+          678
+        ],
+        [
+          190,
+          679
+        ],
+        [
+          199,
+          680
+        ],
+        [
+          203,
+          681
+        ],
+        [
+          210,
+          682
+        ]
+      ],
+      "3179": [
+        [
+          248,
+          23421
+        ],
+        [
+          249,
+          23422
+        ],
+        [
+          250,
+          23423
+        ],
+        [
+          251,
+          23424
+        ],
+        [
+          252,
+          23425
+        ],
+        [
+          253,
+          23426
+        ],
+        [
+          254,
+          23427
+        ],
+        [
+          255,
+          23428
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-2",
+    "cbl_file": "Marvel/Events/CBH/[Marvel] [2024-2026] The New Marvel Ultimate Universe 2.0 (CBH).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      3186,
+      3524,
+      3185,
+      3193,
+      3190,
+      3192,
+      3525,
+      3189,
+      3191,
+      3187
+    ],
+    "collapsed_thread_sequence": [
+      3186,
+      3524,
+      3185,
+      3186,
+      3185,
+      3186,
+      3185,
+      3186,
+      3193,
+      3186,
+      3185,
+      3193,
+      3185,
+      3190,
+      3193,
+      3186,
+      3193,
+      3186,
+      3185,
+      3186,
+      3192,
+      3193,
+      3185,
+      3192,
+      3193,
+      3186,
+      3193,
+      3186,
+      3192,
+      3193,
+      3192,
+      3186,
+      3525,
+      3192,
+      3193,
+      3186,
+      3185,
+      3192,
+      3189,
+      3193,
+      3186,
+      3185,
+      3192,
+      3189,
+      3193,
+      3186,
+      3185,
+      3192,
+      3193,
+      3185,
+      3189,
+      3186,
+      3193,
+      3192,
+      3189,
+      3185,
+      3186,
+      3192,
+      3193,
+      3186,
+      3189,
+      3185,
+      3193,
+      3192,
+      3186,
+      3185,
+      3191,
+      3193,
+      3186,
+      3192,
+      3187,
+      3185,
+      3192,
+      3193,
+      3185,
+      3192,
+      3187,
+      3193,
+      3185,
+      3192,
+      3187,
+      3185,
+      3187,
+      3192,
+      3185
+    ],
+    "thread_issue_subsequences": {
+      "3186": [
+        [
+          7,
+          26284
+        ],
+        [
+          10,
+          26285
+        ],
+        [
+          13,
+          23543
+        ],
+        [
+          16,
+          23544
+        ],
+        [
+          22,
+          23545
+        ],
+        [
+          25,
+          23546
+        ],
+        [
+          27,
+          23547
+        ],
+        [
+          32,
+          23548
+        ],
+        [
+          35,
+          23549
+        ],
+        [
+          43,
+          23550
+        ],
+        [
+          47,
+          23551
+        ],
+        [
+          49,
+          23552
+        ],
+        [
+          58,
+          23553
+        ],
+        [
+          60,
+          23554
+        ],
+        [
+          66,
+          23555
+        ],
+        [
+          71,
+          23556
+        ],
+        [
+          77,
+          23557
+        ],
+        [
+          83,
+          23558
+        ],
+        [
+          90,
+          23559
+        ],
+        [
+          96,
+          23560
+        ],
+        [
+          101,
+          23561
+        ],
+        [
+          107,
+          23562
+        ],
+        [
+          112,
+          23563
+        ]
+      ],
+      "3524": [
+        [
+          18,
+          26449
+        ]
+      ],
+      "3185": [
+        [
+          19,
+          23523
+        ],
+        [
+          23,
+          23524
+        ],
+        [
+          28,
+          23525
+        ],
+        [
+          31,
+          23526
+        ],
+        [
+          36,
+          23527
+        ],
+        [
+          39,
+          23528
+        ],
+        [
+          48,
+          23530
+        ],
+        [
+          53,
+          23531
+        ],
+        [
+          72,
+          23534
+        ],
+        [
+          78,
+          23535
+        ],
+        [
+          85,
+          23536
+        ],
+        [
+          88,
+          23537
+        ],
+        [
+          95,
+          23538
+        ],
+        [
+          104,
+          23539
+        ],
+        [
+          108,
+          23540
+        ],
+        [
+          115,
+          23541
+        ],
+        [
+          118,
+          23542
+        ],
+        [
+          123,
+          26266
+        ],
+        [
+          124,
+          26267
+        ],
+        [
+          127,
+          26268
+        ],
+        [
+          130,
+          26269
+        ]
+      ],
+      "3193": [
+        [
+          33,
+          23610
+        ],
+        [
+          38,
+          23611
+        ],
+        [
+          41,
+          23612
+        ],
+        [
+          45,
+          23613
+        ],
+        [
+          52,
+          23614
+        ],
+        [
+          56,
+          23615
+        ],
+        [
+          59,
+          23616
+        ],
+        [
+          63,
+          23617
+        ],
+        [
+          70,
+          23618
+        ],
+        [
+          76,
+          23619
+        ],
+        [
+          82,
+          23620
+        ],
+        [
+          87,
+          23621
+        ],
+        [
+          92,
+          23622
+        ],
+        [
+          100,
+          23623
+        ],
+        [
+          105,
+          23624
+        ],
+        [
+          110,
+          23625
+        ],
+        [
+          117,
+          23626
+        ],
+        [
+          121,
+          23627
+        ]
+      ],
+      "3190": [
+        [
+          40,
+          23594
+        ]
+      ],
+      "3192": [
+        [
+          50,
+          23596
+        ],
+        [
+          54,
+          23597
+        ],
+        [
+          62,
+          23598
+        ],
+        [
+          65,
+          23599
+        ],
+        [
+          69,
+          23600
+        ],
+        [
+          74,
+          23601
+        ],
+        [
+          80,
+          23602
+        ],
+        [
+          86,
+          23603
+        ],
+        [
+          93,
+          23604
+        ],
+        [
+          99,
+          23605
+        ],
+        [
+          106,
+          23606
+        ],
+        [
+          113,
+          23607
+        ],
+        [
+          116,
+          23608
+        ],
+        [
+          119,
+          23609
+        ],
+        [
+          125,
+          26289
+        ],
+        [
+          129,
+          26290
+        ]
+      ],
+      "3525": [
+        [
+          68,
+          26450
+        ]
+      ],
+      "3189": [
+        [
+          75,
+          23589
+        ],
+        [
+          81,
+          23590
+        ],
+        [
+          89,
+          23591
+        ],
+        [
+          94,
+          23592
+        ],
+        [
+          103,
+          23593
+        ]
+      ],
+      "3191": [
+        [
+          109,
+          23595
+        ]
+      ],
+      "3187": [
+        [
+          114,
+          23565
+        ],
+        [
+          120,
+          23566
+        ],
+        [
+          126,
+          26286
+        ],
+        [
+          128,
+          26287
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-3",
+    "cbl_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      3153,
+      3156,
+      3157,
+      3158,
+      3159,
+      3162,
+      3161,
+      3200
+    ],
+    "collapsed_thread_sequence": [
+      3153,
+      3156,
+      3153,
+      3156,
+      3157,
+      3153,
+      3156,
+      3157,
+      3153,
+      3156,
+      3158,
+      3157,
+      3153,
+      3156,
+      3158,
+      3159,
+      3157,
+      3153,
+      3156,
+      3158,
+      3162,
+      3161,
+      3159,
+      3156,
+      3157,
+      3158,
+      3159,
+      3156,
+      3157,
+      3158,
+      3159,
+      3157,
+      3158,
+      3159,
+      3156,
+      3153,
+      3157,
+      3159,
+      3153,
+      3158,
+      3157,
+      3156,
+      3153,
+      3158,
+      3159,
+      3157,
+      3153,
+      3156,
+      3200,
+      3159,
+      3158,
+      3156,
+      3157,
+      3153
+    ],
+    "thread_issue_subsequences": {
+      "3153": [
+        [
+          4,
+          22886
+        ],
+        [
+          7,
+          22887
+        ],
+        [
+          10,
+          22888
+        ],
+        [
+          13,
+          22889
+        ],
+        [
+          16,
+          22890
+        ],
+        [
+          19,
+          22891
+        ],
+        [
+          26,
+          22892
+        ],
+        [
+          32,
+          22893
+        ],
+        [
+          38,
+          22894
+        ],
+        [
+          44,
+          22895
+        ],
+        [
+          50,
+          22896
+        ],
+        [
+          70,
+          22897
+        ],
+        [
+          71,
+          22898
+        ],
+        [
+          72,
+          22899
+        ],
+        [
+          76,
+          22900
+        ],
+        [
+          82,
+          22901
+        ],
+        [
+          87,
+          22902
+        ],
+        [
+          100,
+          26234
+        ]
+      ],
+      "3156": [
+        [
+          20,
+          22905
+        ],
+        [
+          27,
+          22906
+        ],
+        [
+          33,
+          22907
+        ],
+        [
+          39,
+          22908
+        ],
+        [
+          45,
+          22909
+        ],
+        [
+          51,
+          22910
+        ],
+        [
+          56,
+          22911
+        ],
+        [
+          60,
+          22912
+        ],
+        [
+          69,
+          22914
+        ],
+        [
+          80,
+          22915
+        ],
+        [
+          88,
+          22916
+        ],
+        [
+          97,
+          22917
+        ]
+      ],
+      "3157": [
+        [
+          31,
+          22918
+        ],
+        [
+          37,
+          22919
+        ],
+        [
+          43,
+          22920
+        ],
+        [
+          49,
+          22921
+        ],
+        [
+          57,
+          22922
+        ],
+        [
+          61,
+          22923
+        ],
+        [
+          65,
+          22924
+        ],
+        [
+          73,
+          22925
+        ],
+        [
+          79,
+          22926
+        ],
+        [
+          85,
+          22927
+        ],
+        [
+          98,
+          22928
+        ]
+      ],
+      "3158": [
+        [
+          41,
+          22929
+        ],
+        [
+          47,
+          22930
+        ],
+        [
+          53,
+          22931
+        ],
+        [
+          58,
+          22932
+        ],
+        [
+          62,
+          22933
+        ],
+        [
+          66,
+          22934
+        ],
+        [
+          77,
+          22935
+        ],
+        [
+          83,
+          22936
+        ],
+        [
+          96,
+          22937
+        ]
+      ],
+      "3159": [
+        [
+          48,
+          22938
+        ],
+        [
+          55,
+          22939
+        ],
+        [
+          59,
+          22940
+        ],
+        [
+          64,
+          22941
+        ],
+        [
+          67,
+          22942
+        ],
+        [
+          74,
+          22943
+        ],
+        [
+          84,
+          22944
+        ],
+        [
+          95,
+          22945
+        ]
+      ],
+      "3162": [
+        [
+          54,
+          22951
+        ]
+      ],
+      "3161": [
+        [
+          54,
+          22950
+        ]
+      ],
+      "3200": [
+        [
+          89,
+          23657
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-4",
+    "cbl_file": "Marvel/Events/LoCG/[1994] Phalanx Covenant (Marvel Comics)(LoCG).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      305,
+      74,
+      100,
+      86,
+      76
+    ],
+    "collapsed_thread_sequence": [
+      305,
+      74,
+      100,
+      86,
+      76
+    ],
+    "thread_issue_subsequences": {
+      "305": [
+        [
+          1,
+          1984
+        ],
+        [
+          3,
+          1985
+        ]
+      ],
+      "74": [
+        [
+          5,
+          1023
+        ]
+      ],
+      "100": [
+        [
+          7,
+          616
+        ]
+      ],
+      "86": [
+        [
+          8,
+          1205
+        ]
+      ],
+      "76": [
+        [
+          9,
+          1385
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-5",
+    "cbl_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Phalanx Covenant (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      305,
+      74,
+      100,
+      86,
+      76
+    ],
+    "collapsed_thread_sequence": [
+      305,
+      74,
+      100,
+      86,
+      76
+    ],
+    "thread_issue_subsequences": {
+      "305": [
+        [
+          1,
+          1984
+        ],
+        [
+          3,
+          1985
+        ]
+      ],
+      "74": [
+        [
+          5,
+          1023
+        ]
+      ],
+      "100": [
+        [
+          7,
+          616
+        ]
+      ],
+      "86": [
+        [
+          8,
+          1205
+        ]
+      ],
+      "76": [
+        [
+          9,
+          1385
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-6",
+    "cbl_file": "Marvel/Events/LoCG/[1994-1997] Age of Apocalypse (Marvel Comics)(LoCG).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      305,
+      76,
+      96
+    ],
+    "collapsed_thread_sequence": [
+      305,
+      76,
+      96
+    ],
+    "thread_issue_subsequences": {
+      "305": [
+        [
+          1,
+          1988
+        ],
+        [
+          3,
+          1989
+        ]
+      ],
+      "76": [
+        [
+          5,
+          1389
+        ]
+      ],
+      "96": [
+        [
+          12,
+          494
+        ],
+        [
+          23,
+          495
+        ],
+        [
+          28,
+          496
+        ],
+        [
+          36,
+          497
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-7",
+    "cbl_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Age of Apocalypse (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      74,
+      305,
+      76,
+      96
+    ],
+    "collapsed_thread_sequence": [
+      74,
+      305,
+      74,
+      305,
+      76,
+      96
+    ],
+    "thread_issue_subsequences": {
+      "74": [
+        [
+          2,
+          1025
+        ],
+        [
+          5,
+          1026
+        ]
+      ],
+      "305": [
+        [
+          3,
+          1987
+        ],
+        [
+          6,
+          1988
+        ],
+        [
+          8,
+          1989
+        ]
+      ],
+      "76": [
+        [
+          10,
+          1389
+        ]
+      ],
+      "96": [
+        [
+          30,
+          494
+        ],
+        [
+          38,
+          495
+        ],
+        [
+          46,
+          496
+        ],
+        [
+          52,
+          497
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-8",
+    "cbl_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      305,
+      98,
+      102,
+      100,
+      96,
+      76,
+      74,
+      84
+    ],
+    "collapsed_thread_sequence": [
+      305,
+      98,
+      102,
+      98,
+      305,
+      102,
+      98,
+      102,
+      98,
+      305,
+      100,
+      96,
+      76,
+      98,
+      305,
+      96,
+      102,
+      76,
+      100,
+      74,
+      84,
+      305,
+      74,
+      76,
+      102,
+      96,
+      84,
+      305
+    ],
+    "thread_issue_subsequences": {
+      "305": [
+        [
+          2,
+          1990
+        ],
+        [
+          7,
+          2000
+        ],
+        [
+          13,
+          2001
+        ],
+        [
+          22,
+          2002
+        ],
+        [
+          26,
+          2003
+        ],
+        [
+          38,
+          2004
+        ],
+        [
+          56,
+          2005
+        ]
+      ],
+      "98": [
+        [
+          4,
+          1599
+        ],
+        [
+          6,
+          1602
+        ],
+        [
+          9,
+          1603
+        ],
+        [
+          11,
+          1604
+        ],
+        [
+          12,
+          1605
+        ],
+        [
+          20,
+          1606
+        ]
+      ],
+      "102": [
+        [
+          5,
+          735
+        ],
+        [
+          8,
+          738
+        ],
+        [
+          10,
+          739
+        ],
+        [
+          28,
+          740
+        ],
+        [
+          41,
+          741
+        ]
+      ],
+      "100": [
+        [
+          14,
+          633
+        ],
+        [
+          32,
+          634
+        ]
+      ],
+      "96": [
+        [
+          15,
+          508
+        ],
+        [
+          16,
+          509
+        ],
+        [
+          17,
+          510
+        ],
+        [
+          27,
+          511
+        ],
+        [
+          46,
+          512
+        ]
+      ],
+      "76": [
+        [
+          18,
+          1401
+        ],
+        [
+          19,
+          1402
+        ],
+        [
+          29,
+          1403
+        ],
+        [
+          40,
+          1404
+        ]
+      ],
+      "74": [
+        [
+          34,
+          1042
+        ],
+        [
+          39,
+          1043
+        ]
+      ],
+      "84": [
+        [
+          35,
+          820
+        ],
+        [
+          49,
+          821
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-9",
+    "cbl_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Operation- Zero Tolerance (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      84,
+      98,
+      102,
+      76,
+      305
+    ],
+    "collapsed_thread_sequence": [
+      84,
+      98,
+      102,
+      76,
+      102,
+      76,
+      102,
+      76,
+      305,
+      84,
+      98,
+      84,
+      98
+    ],
+    "thread_issue_subsequences": {
+      "84": [
+        [
+          1,
+          829
+        ],
+        [
+          10,
+          831
+        ],
+        [
+          15,
+          832
+        ],
+        [
+          16,
+          833
+        ]
+      ],
+      "98": [
+        [
+          2,
+          1618
+        ],
+        [
+          11,
+          1619
+        ],
+        [
+          13,
+          1620
+        ],
+        [
+          17,
+          1621
+        ],
+        [
+          19,
+          1622
+        ]
+      ],
+      "102": [
+        [
+          3,
+          750
+        ],
+        [
+          5,
+          751
+        ],
+        [
+          7,
+          752
+        ]
+      ],
+      "76": [
+        [
+          4,
+          1414
+        ],
+        [
+          6,
+          1415
+        ],
+        [
+          8,
+          1416
+        ]
+      ],
+      "305": [
+        [
+          9,
+          2014
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-10",
+    "cbl_file": "Marvel/Events/CBRO/1999-2004 - Part 6/[Marvel] Apocalypse- The Twelve (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      305,
+      98,
+      76,
+      3138
+    ],
+    "collapsed_thread_sequence": [
+      305,
+      98,
+      305,
+      98,
+      305,
+      98,
+      305,
+      98,
+      305,
+      98,
+      76,
+      98,
+      305,
+      76,
+      98,
+      3138,
+      305,
+      76,
+      98,
+      305,
+      76,
+      98,
+      305,
+      76
+    ],
+    "thread_issue_subsequences": {
+      "305": [
+        [
+          1,
+          2036
+        ],
+        [
+          3,
+          2037
+        ],
+        [
+          5,
+          2038
+        ],
+        [
+          7,
+          2039
+        ],
+        [
+          16,
+          2040
+        ],
+        [
+          28,
+          2041
+        ],
+        [
+          29,
+          2042
+        ],
+        [
+          30,
+          2043
+        ],
+        [
+          36,
+          2044
+        ],
+        [
+          43,
+          2045
+        ],
+        [
+          47,
+          2046
+        ]
+      ],
+      "98": [
+        [
+          2,
+          1642
+        ],
+        [
+          4,
+          1643
+        ],
+        [
+          6,
+          1644
+        ],
+        [
+          8,
+          1645
+        ],
+        [
+          17,
+          1647
+        ],
+        [
+          26,
+          1648
+        ],
+        [
+          27,
+          1649
+        ],
+        [
+          33,
+          1650
+        ],
+        [
+          39,
+          1651
+        ],
+        [
+          46,
+          1652
+        ]
+      ],
+      "76": [
+        [
+          20,
+          1440
+        ],
+        [
+          21,
+          1441
+        ],
+        [
+          31,
+          1442
+        ],
+        [
+          32,
+          1443
+        ],
+        [
+          37,
+          1444
+        ],
+        [
+          44,
+          26015
+        ],
+        [
+          48,
+          26016
+        ]
+      ],
+      "3138": [
+        [
+          34,
+          22874
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-11",
+    "cbl_file": "Marvel/Events/CBRO/1999-2004 - Part 6/[Marvel] Eve of Destruction (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      305,
+      76,
+      98
+    ],
+    "collapsed_thread_sequence": [
+      305,
+      76,
+      305,
+      76,
+      98,
+      305,
+      98,
+      305,
+      98,
+      305,
+      98,
+      305,
+      98
+    ],
+    "thread_issue_subsequences": {
+      "305": [
+        [
+          2,
+          2056
+        ],
+        [
+          6,
+          2057
+        ],
+        [
+          9,
+          2058
+        ],
+        [
+          14,
+          2059
+        ],
+        [
+          16,
+          2060
+        ],
+        [
+          18,
+          2061
+        ]
+      ],
+      "76": [
+        [
+          3,
+          26026
+        ],
+        [
+          7,
+          26027
+        ]
+      ],
+      "98": [
+        [
+          8,
+          1664
+        ],
+        [
+          10,
+          1665
+        ],
+        [
+          15,
+          1666
+        ],
+        [
+          17,
+          1667
+        ],
+        [
+          19,
+          1668
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-12",
+    "cbl_file": "DC/Events/LoCG/[2008-2010] Blackest Night (DC Comics)(LoCG).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      114,
+      311,
+      180
+    ],
+    "collapsed_thread_sequence": [
+      114,
+      311,
+      180
+    ],
+    "thread_issue_subsequences": {
+      "114": [
+        [
+          46,
+          1070
+        ],
+        [
+          59,
+          1071
+        ]
+      ],
+      "311": [
+        [
+          76,
+          26224
+        ]
+      ],
+      "180": [
+        [
+          79,
+          26386
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-13",
+    "cbl_file": "DC/Events/CBRO/2008-2011 - Part 7/[DC Comics] Blackest Night (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      114,
+      180,
+      311
+    ],
+    "collapsed_thread_sequence": [
+      114,
+      180,
+      311
+    ],
+    "thread_issue_subsequences": {
+      "114": [
+        [
+          47,
+          1070
+        ],
+        [
+          48,
+          1071
+        ]
+      ],
+      "180": [
+        [
+          54,
+          26386
+        ]
+      ],
+      "311": [
+        [
+          55,
+          26224
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-14",
+    "cbl_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Magneto War (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      305,
+      98,
+      3152
+    ],
+    "collapsed_thread_sequence": [
+      305,
+      98,
+      305,
+      98,
+      3152
+    ],
+    "thread_issue_subsequences": {
+      "305": [
+        [
+          2,
+          2034
+        ],
+        [
+          4,
+          2035
+        ]
+      ],
+      "98": [
+        [
+          3,
+          1640
+        ],
+        [
+          5,
+          1641
+        ]
+      ],
+      "3152": [
+        [
+          6,
+          22883
+        ],
+        [
+          7,
+          22884
+        ],
+        [
+          8,
+          22885
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-15",
+    "cbl_file": "Marvel/Events/LoCG/[1993] Fatal Attractions (Marvel Comics)(LoCG).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      74,
+      305,
+      86,
+      100
+    ],
+    "collapsed_thread_sequence": [
+      74,
+      305,
+      86,
+      100
+    ],
+    "thread_issue_subsequences": {
+      "74": [
+        [
+          1,
+          1009
+        ]
+      ],
+      "305": [
+        [
+          3,
+          1972
+        ]
+      ],
+      "86": [
+        [
+          5,
+          1195
+        ]
+      ],
+      "100": [
+        [
+          6,
+          605
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-16",
+    "cbl_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Fatal Attractions (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      74,
+      305,
+      86,
+      100
+    ],
+    "collapsed_thread_sequence": [
+      74,
+      305,
+      86,
+      100
+    ],
+    "thread_issue_subsequences": {
+      "74": [
+        [
+          1,
+          1009
+        ]
+      ],
+      "305": [
+        [
+          3,
+          1972
+        ]
+      ],
+      "86": [
+        [
+          5,
+          1195
+        ]
+      ],
+      "100": [
+        [
+          6,
+          605
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-17",
+    "cbl_file": "Marvel/Events/LoCG/[1992-1993] Infinity War (Marvel Comics)(LoCG).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      101,
+      296,
+      297
+    ],
+    "collapsed_thread_sequence": [
+      101,
+      296,
+      297
+    ],
+    "thread_issue_subsequences": {
+      "101": [
+        [
+          1,
+          666
+        ]
+      ],
+      "296": [
+        [
+          3,
+          667
+        ],
+        [
+          10,
+          668
+        ],
+        [
+          16,
+          669
+        ],
+        [
+          32,
+          670
+        ],
+        [
+          41,
+          671
+        ],
+        [
+          49,
+          672
+        ]
+      ],
+      "297": [
+        [
+          61,
+          673
+        ],
+        [
+          62,
+          674
+        ],
+        [
+          63,
+          675
+        ],
+        [
+          64,
+          676
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-18",
+    "cbl_file": "Marvel/Events/CBRO/1986-1993 - Part 4/[Marvel] Mutant Massacre (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      305,
+      74,
+      3469
+    ],
+    "collapsed_thread_sequence": [
+      305,
+      74,
+      305,
+      3469
+    ],
+    "thread_issue_subsequences": {
+      "305": [
+        [
+          1,
+          1878
+        ],
+        [
+          3,
+          1879
+        ],
+        [
+          8,
+          1880
+        ],
+        [
+          11,
+          1881
+        ]
+      ],
+      "74": [
+        [
+          10,
+          928
+        ]
+      ],
+      "3469": [
+        [
+          12,
+          25356
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-19",
+    "cbl_file": "Marvel/Events/CBRO/1986-1993 - Part 4/[Marvel] Fall of the Mutants (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      74,
+      3469,
+      305
+    ],
+    "collapsed_thread_sequence": [
+      74,
+      3469,
+      305
+    ],
+    "thread_issue_subsequences": {
+      "74": [
+        [
+          1,
+          935
+        ],
+        [
+          2,
+          936
+        ],
+        [
+          3,
+          937
+        ]
+      ],
+      "3469": [
+        [
+          10,
+          25370
+        ]
+      ],
+      "305": [
+        [
+          14,
+          1888
+        ],
+        [
+          15,
+          1889
+        ],
+        [
+          16,
+          1890
+        ],
+        [
+          17,
+          1891
+        ],
+        [
+          18,
+          1892
+        ],
+        [
+          20,
+          1893
+        ],
+        [
+          21,
+          1894
+        ],
+        [
+          22,
+          1895
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-20",
+    "cbl_file": "Marvel/Events/CBRO/1986-1993 - Part 4/[Marvel] Inferno (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      305,
+      74,
+      3469
+    ],
+    "collapsed_thread_sequence": [
+      305,
+      74,
+      305,
+      3469,
+      74,
+      305,
+      74,
+      305,
+      74
+    ],
+    "thread_issue_subsequences": {
+      "305": [
+        [
+          1,
+          1907
+        ],
+        [
+          6,
+          1908
+        ],
+        [
+          7,
+          1909
+        ],
+        [
+          30,
+          1910
+        ],
+        [
+          32,
+          1911
+        ]
+      ],
+      "74": [
+        [
+          5,
+          953
+        ],
+        [
+          29,
+          954
+        ],
+        [
+          31,
+          955
+        ],
+        [
+          33,
+          956
+        ]
+      ],
+      "3469": [
+        [
+          16,
+          25380
+        ],
+        [
+          22,
+          25381
+        ],
+        [
+          28,
+          25383
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-21",
+    "cbl_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      3513,
+      3514,
+      3529
+    ],
+    "collapsed_thread_sequence": [
+      3513,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3513,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3513
+    ],
+    "thread_issue_subsequences": {
+      "3513": [
+        [
+          23,
+          25980
+        ],
+        [
+          24,
+          25981
+        ],
+        [
+          25,
+          25982
+        ],
+        [
+          26,
+          25983
+        ],
+        [
+          27,
+          25984
+        ],
+        [
+          38,
+          25986
+        ],
+        [
+          39,
+          25987
+        ],
+        [
+          40,
+          25988
+        ],
+        [
+          41,
+          25989
+        ],
+        [
+          42,
+          25990
+        ],
+        [
+          55,
+          25985
+        ]
+      ],
+      "3514": [
+        [
+          29,
+          25991
+        ],
+        [
+          30,
+          25992
+        ],
+        [
+          31,
+          25993
+        ],
+        [
+          32,
+          25994
+        ],
+        [
+          33,
+          25995
+        ],
+        [
+          34,
+          25996
+        ],
+        [
+          43,
+          25997
+        ],
+        [
+          44,
+          25998
+        ],
+        [
+          45,
+          25999
+        ],
+        [
+          46,
+          26000
+        ],
+        [
+          47,
+          26001
+        ],
+        [
+          48,
+          26002
+        ],
+        [
+          49,
+          26003
+        ],
+        [
+          50,
+          26004
+        ],
+        [
+          51,
+          26005
+        ],
+        [
+          52,
+          26006
+        ],
+        [
+          53,
+          26007
+        ],
+        [
+          54,
+          26008
+        ]
+      ],
+      "3529": [
+        [
+          29,
+          26457
+        ],
+        [
+          30,
+          26458
+        ],
+        [
+          31,
+          26459
+        ],
+        [
+          32,
+          26460
+        ],
+        [
+          33,
+          26461
+        ],
+        [
+          34,
+          26462
+        ],
+        [
+          43,
+          26463
+        ],
+        [
+          44,
+          26464
+        ],
+        [
+          45,
+          26465
+        ],
+        [
+          46,
+          26466
+        ],
+        [
+          47,
+          26467
+        ],
+        [
+          48,
+          26468
+        ],
+        [
+          49,
+          26469
+        ],
+        [
+          50,
+          26470
+        ],
+        [
+          51,
+          26471
+        ],
+        [
+          52,
+          26472
+        ],
+        [
+          53,
+          26473
+        ],
+        [
+          54,
+          26474
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-22",
+    "cbl_file": "DC/Events/LoCG/[2020-2021] Dark Nights Death Metal (DC Comics)(LoCG).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      3520,
+      3523,
+      3521
+    ],
+    "collapsed_thread_sequence": [
+      3520,
+      3523,
+      3521,
+      3520
+    ],
+    "thread_issue_subsequences": {
+      "3520": [
+        [
+          1,
+          26439
+        ],
+        [
+          2,
+          26440
+        ],
+        [
+          4,
+          26441
+        ],
+        [
+          11,
+          26442
+        ],
+        [
+          17,
+          26443
+        ],
+        [
+          21,
+          26444
+        ],
+        [
+          24,
+          26445
+        ]
+      ],
+      "3523": [
+        [
+          5,
+          26448
+        ]
+      ],
+      "3521": [
+        [
+          6,
+          26446
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  },
+  {
+    "lane_id": "exploratory-23",
+    "cbl_file": "DC/Events/CBRO/2016-2021 - DC Rebirth/[DC Comics] Dark Nights- Death Metal (WEB-CBRO).cbl",
+    "list_type": "focused_event",
+    "threads": [
+      3520,
+      3523,
+      3521
+    ],
+    "collapsed_thread_sequence": [
+      3520,
+      3523,
+      3521,
+      3520
+    ],
+    "thread_issue_subsequences": {
+      "3520": [
+        [
+          1,
+          26439
+        ],
+        [
+          2,
+          26440
+        ],
+        [
+          3,
+          26441
+        ],
+        [
+          9,
+          26442
+        ],
+        [
+          18,
+          26443
+        ],
+        [
+          22,
+          26444
+        ],
+        [
+          24,
+          26445
+        ]
+      ],
+      "3523": [
+        [
+          5,
+          26448
+        ]
+      ],
+      "3521": [
+        [
+          6,
+          26446
+        ]
+      ]
+    },
+    "confidence": 0.35,
+    "inference": true,
+    "evidence": "single focused list with interleaved matched thread subsequences"
+  }
+]

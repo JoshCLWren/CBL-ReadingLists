@@ -1,0 +1,41 @@
+{
+  "window_counts": {
+    "1": {
+      "co_occurring_pairs": 522,
+      "multiple_file_pairs": 61,
+      "consistent_pairs": 521,
+      "conflicting_pairs": 1
+    },
+    "3": {
+      "co_occurring_pairs": 1426,
+      "multiple_file_pairs": 150,
+      "consistent_pairs": 1425,
+      "conflicting_pairs": 1
+    },
+    "10": {
+      "co_occurring_pairs": 3717,
+      "multiple_file_pairs": 253,
+      "consistent_pairs": 3714,
+      "conflicting_pairs": 3
+    }
+  },
+  "pair_stage_counts_window_3": {
+    "cooccur_at_least_one_file": 1426,
+    "cooccur_at_least_two_files": 150,
+    "cooccur_across_at_least_two_source_families": 144,
+    "consistent_relative_order": 1425,
+    "reversed_order_conflicts": 1
+  },
+  "full_pairwise_focused_under_250": {
+    "pairs": 8897,
+    "repeated_order": 37,
+    "independent_support": 100,
+    "conflicting": 1
+  },
+  "previous_logic_threshold": {
+    "required_same_direction_support": 2,
+    "required_agreement": 0.75,
+    "hard_required_support": 3,
+    "observed_issue": "The old loop emitted both directions for every pair in each list, so reverse count mirrored forward count, making agreement 0.5 and eliminating every candidate under the 0.75 threshold. It also had no thread/parallel pass."
+  }
+}

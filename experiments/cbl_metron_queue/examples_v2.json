@@ -1,0 +1,2679 @@
+[
+  {
+    "cbl_file": "Marvel/Events/CBH/[Marvel] [2024-2026] The New Marvel Ultimate Universe 2.0 (CBH).cbl",
+    "source_family": "CBH",
+    "threads": [
+      "Free Comic Book Day 2024: Ultimate Universe / Spider-Man",
+      "Free Comic Book Day 2025: Amazing Spider-Man / Ultimate Universe",
+      "The ultimates",
+      "Ultimate X-men ",
+      "Ultimate black panther",
+      "Ultimate endgame",
+      "Ultimate spider man incursion",
+      "Ultimate universe one year in",
+      "Ultimate universe two years in",
+      "Ultimate wolverine"
+    ],
+    "matched_issues": [
+      {
+        "title": "Ultimate black panther",
+        "issue": "1",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "2",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "3",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "4",
+        "thread_id": 3186
+      },
+      {
+        "title": "Free Comic Book Day 2024: Ultimate Universe / Spider-Man",
+        "issue": "1",
+        "thread_id": 3524
+      },
+      {
+        "title": "The ultimates",
+        "issue": "1",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "5",
+        "thread_id": 3186
+      },
+      {
+        "title": "The ultimates",
+        "issue": "2",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "6",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "7",
+        "thread_id": 3186
+      },
+      {
+        "title": "The ultimates",
+        "issue": "3",
+        "thread_id": 3185
+      },
+      {
+        "title": "The ultimates",
+        "issue": "4",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "8",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "7",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "9",
+        "thread_id": 3186
+      },
+      {
+        "title": "The ultimates",
+        "issue": "5",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "8",
+        "thread_id": 3193
+      },
+      {
+        "title": "The ultimates",
+        "issue": "6",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate universe one year in",
+        "issue": "1",
+        "thread_id": 3190
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "9",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "10",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "10",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "11",
+        "thread_id": 3186
+      },
+      {
+        "title": "The ultimates",
+        "issue": "8",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "12",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "1",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "11",
+        "thread_id": 3193
+      },
+      {
+        "title": "The ultimates",
+        "issue": "9",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "2",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "12",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "13",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "13",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "14",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "3",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "14",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "4",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "15",
+        "thread_id": 3186
+      },
+      {
+        "title": "Free Comic Book Day 2025: Amazing Spider-Man / Ultimate Universe",
+        "issue": "1",
+        "thread_id": 3525
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "5",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "15",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "16",
+        "thread_id": 3186
+      },
+      {
+        "title": "The ultimates",
+        "issue": "12",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "6",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate spider man incursion",
+        "issue": "1",
+        "thread_id": 3189
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "16",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "17",
+        "thread_id": 3186
+      },
+      {
+        "title": "The ultimates",
+        "issue": "13",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "7",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate spider man incursion",
+        "issue": "2",
+        "thread_id": 3189
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "17",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "18",
+        "thread_id": 3186
+      },
+      {
+        "title": "The ultimates",
+        "issue": "14",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "8",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "18",
+        "thread_id": 3193
+      },
+      {
+        "title": "The ultimates",
+        "issue": "15",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate spider man incursion",
+        "issue": "3",
+        "thread_id": 3189
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "19",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "19",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "9",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate spider man incursion",
+        "issue": "4",
+        "thread_id": 3189
+      },
+      {
+        "title": "The ultimates",
+        "issue": "16",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "20",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "10",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "20",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "21",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate spider man incursion",
+        "issue": "5",
+        "thread_id": 3189
+      },
+      {
+        "title": "The ultimates",
+        "issue": "17",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "21",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "11",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "22",
+        "thread_id": 3186
+      },
+      {
+        "title": "The ultimates",
+        "issue": "18",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate universe two years in",
+        "issue": "1",
+        "thread_id": 3191
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "22",
+        "thread_id": 3193
+      },
+      {
+        "title": "Ultimate black panther",
+        "issue": "23",
+        "thread_id": 3186
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "12",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate endgame",
+        "issue": "1",
+        "thread_id": 3187
+      },
+      {
+        "title": "The ultimates",
+        "issue": "19",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "13",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "23",
+        "thread_id": 3193
+      },
+      {
+        "title": "The ultimates",
+        "issue": "20",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "14",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate endgame",
+        "issue": "2",
+        "thread_id": 3187
+      },
+      {
+        "title": "Ultimate X-men ",
+        "issue": "24",
+        "thread_id": 3193
+      },
+      {
+        "title": "The ultimates",
+        "issue": "21",
+        "thread_id": 3185
+      },
+      {
+        "title": "The ultimates",
+        "issue": "22",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "15",
+        "thread_id": 3192
+      },
+      {
+        "title": "Ultimate endgame",
+        "issue": "3",
+        "thread_id": 3187
+      },
+      {
+        "title": "The ultimates",
+        "issue": "23",
+        "thread_id": 3185
+      },
+      {
+        "title": "Ultimate endgame",
+        "issue": "4",
+        "thread_id": 3187
+      },
+      {
+        "title": "Ultimate wolverine",
+        "issue": "16",
+        "thread_id": 3192
+      },
+      {
+        "title": "The ultimates",
+        "issue": "24",
+        "thread_id": 3185
+      }
+    ],
+    "collapsed_thread_sequence": [
+      3186,
+      3524,
+      3185,
+      3186,
+      3185,
+      3186,
+      3185,
+      3186,
+      3193,
+      3186,
+      3185,
+      3193,
+      3185,
+      3190,
+      3193,
+      3186,
+      3193,
+      3186,
+      3185,
+      3186,
+      3192,
+      3193,
+      3185,
+      3192,
+      3193,
+      3186,
+      3193,
+      3186,
+      3192,
+      3193,
+      3192,
+      3186,
+      3525,
+      3192,
+      3193,
+      3186,
+      3185,
+      3192,
+      3189,
+      3193,
+      3186,
+      3185,
+      3192,
+      3189,
+      3193,
+      3186,
+      3185,
+      3192,
+      3193,
+      3185,
+      3189,
+      3186,
+      3193,
+      3192,
+      3189,
+      3185,
+      3186,
+      3192,
+      3193,
+      3186,
+      3189,
+      3185,
+      3193,
+      3192,
+      3186,
+      3185,
+      3191,
+      3193,
+      3186,
+      3192,
+      3187,
+      3185,
+      3192,
+      3193,
+      3185,
+      3192,
+      3187,
+      3193,
+      3185,
+      3192,
+      3187,
+      3185,
+      3187,
+      3192,
+      3185
+    ],
+    "candidate_edges": [
+      [
+        26284,
+        26285
+      ],
+      [
+        26285,
+        23543
+      ],
+      [
+        23543,
+        23544
+      ],
+      [
+        23544,
+        26449
+      ],
+      [
+        26449,
+        23523
+      ],
+      [
+        23523,
+        23545
+      ],
+      [
+        23545,
+        23524
+      ],
+      [
+        23524,
+        23546
+      ],
+      [
+        23546,
+        23547
+      ],
+      [
+        23547,
+        23525
+      ],
+      [
+        23525,
+        23526
+      ],
+      [
+        23526,
+        23548
+      ],
+      [
+        23548,
+        23610
+      ],
+      [
+        23610,
+        23549
+      ],
+      [
+        23549,
+        23527
+      ],
+      [
+        23527,
+        23611
+      ],
+      [
+        23611,
+        23528
+      ],
+      [
+        23528,
+        23594
+      ],
+      [
+        23594,
+        23612
+      ],
+      [
+        23612,
+        23550
+      ],
+      [
+        23550,
+        23613
+      ],
+      [
+        23613,
+        23551
+      ],
+      [
+        23551,
+        23530
+      ],
+      [
+        23530,
+        23552
+      ],
+      [
+        23552,
+        23596
+      ],
+      [
+        23596,
+        23614
+      ],
+      [
+        23614,
+        23531
+      ],
+      [
+        23531,
+        23597
+      ],
+      [
+        23597,
+        23615
+      ],
+      [
+        23615,
+        23553
+      ],
+      [
+        23553,
+        23616
+      ],
+      [
+        23616,
+        23554
+      ],
+      [
+        23554,
+        23598
+      ],
+      [
+        23598,
+        23617
+      ],
+      [
+        23617,
+        23599
+      ],
+      [
+        23599,
+        23555
+      ],
+      [
+        23555,
+        26450
+      ],
+      [
+        26450,
+        23600
+      ],
+      [
+        23600,
+        23618
+      ],
+      [
+        23618,
+        23556
+      ],
+      [
+        23556,
+        23534
+      ],
+      [
+        23534,
+        23601
+      ],
+      [
+        23601,
+        23589
+      ],
+      [
+        23589,
+        23619
+      ],
+      [
+        23619,
+        23557
+      ],
+      [
+        23557,
+        23535
+      ],
+      [
+        23535,
+        23602
+      ],
+      [
+        23602,
+        23590
+      ],
+      [
+        23590,
+        23620
+      ],
+      [
+        23620,
+        23558
+      ],
+      [
+        23558,
+        23536
+      ],
+      [
+        23536,
+        23603
+      ],
+      [
+        23603,
+        23621
+      ],
+      [
+        23621,
+        23537
+      ],
+      [
+        23537,
+        23591
+      ],
+      [
+        23591,
+        23559
+      ],
+      [
+        23559,
+        23622
+      ],
+      [
+        23622,
+        23604
+      ],
+      [
+        23604,
+        23592
+      ],
+      [
+        23592,
+        23538
+      ],
+      [
+        23538,
+        23560
+      ],
+      [
+        23560,
+        23605
+      ],
+      [
+        23605,
+        23623
+      ],
+      [
+        23623,
+        23561
+      ],
+      [
+        23561,
+        23593
+      ],
+      [
+        23593,
+        23539
+      ],
+      [
+        23539,
+        23624
+      ],
+      [
+        23624,
+        23606
+      ],
+      [
+        23606,
+        23562
+      ],
+      [
+        23562,
+        23540
+      ],
+      [
+        23540,
+        23595
+      ],
+      [
+        23595,
+        23625
+      ],
+      [
+        23625,
+        23563
+      ],
+      [
+        23563,
+        23607
+      ],
+      [
+        23607,
+        23565
+      ],
+      [
+        23565,
+        23541
+      ],
+      [
+        23541,
+        23608
+      ],
+      [
+        23608,
+        23626
+      ],
+      [
+        23626,
+        23542
+      ],
+      [
+        23542,
+        23609
+      ],
+      [
+        23609,
+        23566
+      ],
+      [
+        23566,
+        23627
+      ],
+      [
+        23627,
+        26266
+      ],
+      [
+        26266,
+        26267
+      ],
+      [
+        26267,
+        26289
+      ],
+      [
+        26289,
+        26286
+      ],
+      [
+        26286,
+        26268
+      ],
+      [
+        26268,
+        26287
+      ],
+      [
+        26287,
+        26290
+      ],
+      [
+        26290,
+        26269
+      ]
+    ],
+    "why_previous_emitted_nothing": "previous pass required repeated same-direction issue pairs across at least two lists; one focused list cannot satisfy that threshold"
+  },
+  {
+    "cbl_file": "DC/Events/CBH/[DC Comics] [2024-2026] Absolute Universe (CBH).cbl",
+    "source_family": "CBH",
+    "threads": [
+      "Absolute Batman",
+      "Absolute Evil",
+      "Absolute Flash",
+      "Absolute Superman",
+      "Absolute Wonder Woman ",
+      "Absolute evil",
+      "Absolute green lantern ",
+      "Dc ko Superman v Captain atom"
+    ],
+    "matched_issues": [
+      {
+        "title": "Absolute Superman",
+        "issue": "1",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "2",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "3",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "4",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "5",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "6",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "1",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "7",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "2",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "8",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "8",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "3",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "9",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "9",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "4",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute green lantern ",
+        "issue": "4",
+        "thread_id": 3158
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "10",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "10",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "5",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute green lantern ",
+        "issue": "5",
+        "thread_id": 3158
+      },
+      {
+        "title": "Absolute Batman",
+        "issue": "11",
+        "thread_id": 3159
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "11",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "11",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "6",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute green lantern ",
+        "issue": "6",
+        "thread_id": 3158
+      },
+      {
+        "title": "Absolute Evil",
+        "issue": "1",
+        "thread_id": 3162
+      },
+      {
+        "title": "Absolute evil",
+        "issue": "1",
+        "thread_id": 3161
+      },
+      {
+        "title": "Absolute Batman",
+        "issue": "12",
+        "thread_id": 3159
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "7",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "12",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute green lantern ",
+        "issue": "7",
+        "thread_id": 3158
+      },
+      {
+        "title": "Absolute Batman",
+        "issue": "13",
+        "thread_id": 3159
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "8",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "13",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute green lantern ",
+        "issue": "8",
+        "thread_id": 3158
+      },
+      {
+        "title": "Absolute Batman",
+        "issue": "14",
+        "thread_id": 3159
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "14",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute green lantern ",
+        "issue": "9",
+        "thread_id": 3158
+      },
+      {
+        "title": "Absolute Batman",
+        "issue": "15",
+        "thread_id": 3159
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "10",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "12",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "13",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "14",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "15",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute Batman",
+        "issue": "16",
+        "thread_id": 3159
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "15",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute green lantern ",
+        "issue": "10",
+        "thread_id": 3158
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "16",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "11",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "16",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute green lantern ",
+        "issue": "11",
+        "thread_id": 3158
+      },
+      {
+        "title": "Absolute Batman",
+        "issue": "17",
+        "thread_id": 3159
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "17",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "17",
+        "thread_id": 3153
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "12",
+        "thread_id": 3156
+      },
+      {
+        "title": "Dc ko Superman v Captain atom",
+        "issue": "1",
+        "thread_id": 3200
+      },
+      {
+        "title": "Absolute Batman",
+        "issue": "18",
+        "thread_id": 3159
+      },
+      {
+        "title": "Absolute green lantern ",
+        "issue": "12",
+        "thread_id": 3158
+      },
+      {
+        "title": "Absolute Flash",
+        "issue": "13",
+        "thread_id": 3156
+      },
+      {
+        "title": "Absolute Wonder Woman ",
+        "issue": "18",
+        "thread_id": 3157
+      },
+      {
+        "title": "Absolute Superman",
+        "issue": "18",
+        "thread_id": 3153
+      }
+    ],
+    "collapsed_thread_sequence": [
+      3153,
+      3156,
+      3153,
+      3156,
+      3157,
+      3153,
+      3156,
+      3157,
+      3153,
+      3156,
+      3158,
+      3157,
+      3153,
+      3156,
+      3158,
+      3159,
+      3157,
+      3153,
+      3156,
+      3158,
+      3162,
+      3161,
+      3159,
+      3156,
+      3157,
+      3158,
+      3159,
+      3156,
+      3157,
+      3158,
+      3159,
+      3157,
+      3158,
+      3159,
+      3156,
+      3153,
+      3157,
+      3159,
+      3153,
+      3158,
+      3157,
+      3156,
+      3153,
+      3158,
+      3159,
+      3157,
+      3153,
+      3156,
+      3200,
+      3159,
+      3158,
+      3156,
+      3157,
+      3153
+    ],
+    "candidate_edges": [
+      [
+        22886,
+        22887
+      ],
+      [
+        22887,
+        22888
+      ],
+      [
+        22888,
+        22889
+      ],
+      [
+        22889,
+        22890
+      ],
+      [
+        22890,
+        22891
+      ],
+      [
+        22891,
+        22905
+      ],
+      [
+        22905,
+        22892
+      ],
+      [
+        22892,
+        22906
+      ],
+      [
+        22906,
+        22918
+      ],
+      [
+        22918,
+        22893
+      ],
+      [
+        22893,
+        22907
+      ],
+      [
+        22907,
+        22919
+      ],
+      [
+        22919,
+        22894
+      ],
+      [
+        22894,
+        22908
+      ],
+      [
+        22908,
+        22929
+      ],
+      [
+        22929,
+        22920
+      ],
+      [
+        22920,
+        22895
+      ],
+      [
+        22895,
+        22909
+      ],
+      [
+        22909,
+        22930
+      ],
+      [
+        22930,
+        22938
+      ],
+      [
+        22938,
+        22921
+      ],
+      [
+        22921,
+        22896
+      ],
+      [
+        22896,
+        22910
+      ],
+      [
+        22910,
+        22931
+      ],
+      [
+        22931,
+        22951
+      ],
+      [
+        22951,
+        22950
+      ],
+      [
+        22950,
+        22939
+      ],
+      [
+        22939,
+        22911
+      ],
+      [
+        22911,
+        22922
+      ],
+      [
+        22922,
+        22932
+      ],
+      [
+        22932,
+        22940
+      ],
+      [
+        22940,
+        22912
+      ],
+      [
+        22912,
+        22923
+      ],
+      [
+        22923,
+        22933
+      ],
+      [
+        22933,
+        22941
+      ],
+      [
+        22941,
+        22924
+      ],
+      [
+        22924,
+        22934
+      ],
+      [
+        22934,
+        22942
+      ],
+      [
+        22942,
+        22914
+      ],
+      [
+        22914,
+        22897
+      ],
+      [
+        22897,
+        22898
+      ],
+      [
+        22898,
+        22899
+      ],
+      [
+        22899,
+        22925
+      ],
+      [
+        22925,
+        22943
+      ],
+      [
+        22943,
+        22900
+      ],
+      [
+        22900,
+        22935
+      ],
+      [
+        22935,
+        22926
+      ],
+      [
+        22926,
+        22915
+      ],
+      [
+        22915,
+        22901
+      ],
+      [
+        22901,
+        22936
+      ],
+      [
+        22936,
+        22944
+      ],
+      [
+        22944,
+        22927
+      ],
+      [
+        22927,
+        22902
+      ],
+      [
+        22902,
+        22916
+      ],
+      [
+        22916,
+        23657
+      ],
+      [
+        23657,
+        22945
+      ],
+      [
+        22945,
+        22937
+      ],
+      [
+        22937,
+        22917
+      ],
+      [
+        22917,
+        22928
+      ],
+      [
+        22928,
+        26234
+      ]
+    ],
+    "why_previous_emitted_nothing": "previous pass required repeated same-direction issue pairs across at least two lists; one focused list cannot satisfy that threshold"
+  },
+  {
+    "cbl_file": "DC/Events/CBRO/1938-1986 - Part 1/[DC Comics] Jack Kirby's Fourth World (WEB-CBRO).cbl",
+    "source_family": "WEB-CBRO",
+    "threads": [
+      "Mister Miracle",
+      "Mister Miracle (1989\u20131991)",
+      "The New Gods"
+    ],
+    "matched_issues": [
+      {
+        "title": "The New Gods",
+        "issue": "1",
+        "thread_id": 3513
+      },
+      {
+        "title": "The New Gods",
+        "issue": "2",
+        "thread_id": 3513
+      },
+      {
+        "title": "The New Gods",
+        "issue": "3",
+        "thread_id": 3513
+      },
+      {
+        "title": "The New Gods",
+        "issue": "4",
+        "thread_id": 3513
+      },
+      {
+        "title": "The New Gods",
+        "issue": "5",
+        "thread_id": 3513
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "1",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "1",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "2",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "2",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "3",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "3",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "4",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "4",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "5",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "5",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "6",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "6",
+        "thread_id": 3529
+      },
+      {
+        "title": "The New Gods",
+        "issue": "7",
+        "thread_id": 3513
+      },
+      {
+        "title": "The New Gods",
+        "issue": "8",
+        "thread_id": 3513
+      },
+      {
+        "title": "The New Gods",
+        "issue": "9",
+        "thread_id": 3513
+      },
+      {
+        "title": "The New Gods",
+        "issue": "10",
+        "thread_id": 3513
+      },
+      {
+        "title": "The New Gods",
+        "issue": "11",
+        "thread_id": 3513
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "7",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "7",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "8",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "8",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "9",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "9",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "10",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "10",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "11",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "11",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "12",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "12",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "13",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "13",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "14",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "14",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "15",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "15",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "16",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "16",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "17",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "17",
+        "thread_id": 3529
+      },
+      {
+        "title": "Mister Miracle",
+        "issue": "18",
+        "thread_id": 3514
+      },
+      {
+        "title": "Mister Miracle (1989\u20131991)",
+        "issue": "18",
+        "thread_id": 3529
+      },
+      {
+        "title": "The New Gods",
+        "issue": "6",
+        "thread_id": 3513
+      }
+    ],
+    "collapsed_thread_sequence": [
+      3513,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3513,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3514,
+      3529,
+      3513
+    ],
+    "candidate_edges": [
+      [
+        25980,
+        25981
+      ],
+      [
+        25981,
+        25982
+      ],
+      [
+        25982,
+        25983
+      ],
+      [
+        25983,
+        25984
+      ],
+      [
+        25984,
+        25991
+      ],
+      [
+        25991,
+        26457
+      ],
+      [
+        26457,
+        25992
+      ],
+      [
+        25992,
+        26458
+      ],
+      [
+        26458,
+        25993
+      ],
+      [
+        25993,
+        26459
+      ],
+      [
+        26459,
+        25994
+      ],
+      [
+        25994,
+        26460
+      ],
+      [
+        26460,
+        25995
+      ],
+      [
+        25995,
+        26461
+      ],
+      [
+        26461,
+        25996
+      ],
+      [
+        25996,
+        26462
+      ],
+      [
+        26462,
+        25986
+      ],
+      [
+        25986,
+        25987
+      ],
+      [
+        25987,
+        25988
+      ],
+      [
+        25988,
+        25989
+      ],
+      [
+        25989,
+        25990
+      ],
+      [
+        25990,
+        25997
+      ],
+      [
+        25997,
+        26463
+      ],
+      [
+        26463,
+        25998
+      ],
+      [
+        25998,
+        26464
+      ],
+      [
+        26464,
+        25999
+      ],
+      [
+        25999,
+        26465
+      ],
+      [
+        26465,
+        26000
+      ],
+      [
+        26000,
+        26466
+      ],
+      [
+        26466,
+        26001
+      ],
+      [
+        26001,
+        26467
+      ],
+      [
+        26467,
+        26002
+      ],
+      [
+        26002,
+        26468
+      ],
+      [
+        26468,
+        26003
+      ],
+      [
+        26003,
+        26469
+      ],
+      [
+        26469,
+        26004
+      ],
+      [
+        26004,
+        26470
+      ],
+      [
+        26470,
+        26005
+      ],
+      [
+        26005,
+        26471
+      ],
+      [
+        26471,
+        26006
+      ],
+      [
+        26006,
+        26472
+      ],
+      [
+        26472,
+        26007
+      ],
+      [
+        26007,
+        26473
+      ],
+      [
+        26473,
+        26008
+      ],
+      [
+        26008,
+        26474
+      ],
+      [
+        26474,
+        25985
+      ]
+    ],
+    "why_previous_emitted_nothing": "previous pass required repeated same-direction issue pairs across at least two lists; one focused list cannot satisfy that threshold"
+  },
+  {
+    "cbl_file": "Marvel/Events/CBRO/1992-1999 - Part 5/[Marvel] Onslaught Saga (WEB-CBRO).cbl",
+    "source_family": "WEB-CBRO",
+    "threads": [
+      "Cable",
+      "Excalibur",
+      "Generation X",
+      "Uncanny X-men",
+      "X-Factor",
+      "X-Force",
+      "X-Man",
+      "X-men"
+    ],
+    "matched_issues": [
+      {
+        "title": "Uncanny X-men",
+        "issue": "322",
+        "thread_id": 305
+      },
+      {
+        "title": "X-men",
+        "issue": "46",
+        "thread_id": 98
+      },
+      {
+        "title": "X-Force",
+        "issue": "52",
+        "thread_id": 102
+      },
+      {
+        "title": "X-men",
+        "issue": "49",
+        "thread_id": 98
+      },
+      {
+        "title": "Uncanny X-men",
+        "issue": "332",
+        "thread_id": 305
+      },
+      {
+        "title": "X-Force",
+        "issue": "55",
+        "thread_id": 102
+      },
+      {
+        "title": "X-men",
+        "issue": "50",
+        "thread_id": 98
+      },
+      {
+        "title": "X-Force",
+        "issue": "56",
+        "thread_id": 102
+      },
+      {
+        "title": "X-men",
+        "issue": "51",
+        "thread_id": 98
+      },
+      {
+        "title": "X-men",
+        "issue": "52",
+        "thread_id": 98
+      },
+      {
+        "title": "Uncanny X-men",
+        "issue": "333",
+        "thread_id": 305
+      },
+      {
+        "title": "Excalibur",
+        "issue": "99",
+        "thread_id": 100
+      },
+      {
+        "title": "X-Man",
+        "issue": "15",
+        "thread_id": 96
+      },
+      {
+        "title": "X-Man",
+        "issue": "16",
+        "thread_id": 96
+      },
+      {
+        "title": "X-Man",
+        "issue": "17",
+        "thread_id": 96
+      },
+      {
+        "title": "Cable",
+        "issue": "32",
+        "thread_id": 76
+      },
+      {
+        "title": "Cable",
+        "issue": "33",
+        "thread_id": 76
+      },
+      {
+        "title": "X-men",
+        "issue": "53",
+        "thread_id": 98
+      },
+      {
+        "title": "Uncanny X-men",
+        "issue": "334",
+        "thread_id": 305
+      },
+      {
+        "title": "Uncanny X-men",
+        "issue": "335",
+        "thread_id": 305
+      },
+      {
+        "title": "X-Man",
+        "issue": "18",
+        "thread_id": 96
+      },
+      {
+        "title": "X-Force",
+        "issue": "57",
+        "thread_id": 102
+      },
+      {
+        "title": "Cable",
+        "issue": "34",
+        "thread_id": 76
+      },
+      {
+        "title": "Excalibur",
+        "issue": "100",
+        "thread_id": 100
+      },
+      {
+        "title": "X-Factor",
+        "issue": "125",
+        "thread_id": 74
+      },
+      {
+        "title": "Generation X",
+        "issue": "18",
+        "thread_id": 84
+      },
+      {
+        "title": "Uncanny X-men",
+        "issue": "336",
+        "thread_id": 305
+      },
+      {
+        "title": "X-Factor",
+        "issue": "126",
+        "thread_id": 74
+      },
+      {
+        "title": "Cable",
+        "issue": "35",
+        "thread_id": 76
+      },
+      {
+        "title": "X-Force",
+        "issue": "58",
+        "thread_id": 102
+      },
+      {
+        "title": "X-Man",
+        "issue": "19",
+        "thread_id": 96
+      },
+      {
+        "title": "Generation X",
+        "issue": "19",
+        "thread_id": 84
+      },
+      {
+        "title": "Uncanny X-men",
+        "issue": "337",
+        "thread_id": 305
+      }
+    ],
+    "collapsed_thread_sequence": [
+      305,
+      98,
+      102,
+      98,
+      305,
+      102,
+      98,
+      102,
+      98,
+      305,
+      100,
+      96,
+      76,
+      98,
+      305,
+      96,
+      102,
+      76,
+      100,
+      74,
+      84,
+      305,
+      74,
+      76,
+      102,
+      96,
+      84,
+      305
+    ],
+    "candidate_edges": [
+      [
+        1990,
+        1599
+      ],
+      [
+        1599,
+        735
+      ],
+      [
+        735,
+        1602
+      ],
+      [
+        1602,
+        2000
+      ],
+      [
+        2000,
+        738
+      ],
+      [
+        738,
+        1603
+      ],
+      [
+        1603,
+        739
+      ],
+      [
+        739,
+        1604
+      ],
+      [
+        1604,
+        1605
+      ],
+      [
+        1605,
+        2001
+      ],
+      [
+        2001,
+        633
+      ],
+      [
+        633,
+        508
+      ],
+      [
+        508,
+        509
+      ],
+      [
+        509,
+        510
+      ],
+      [
+        510,
+        1401
+      ],
+      [
+        1401,
+        1402
+      ],
+      [
+        1402,
+        1606
+      ],
+      [
+        1606,
+        2002
+      ],
+      [
+        2002,
+        2003
+      ],
+      [
+        2003,
+        511
+      ],
+      [
+        511,
+        740
+      ],
+      [
+        740,
+        1403
+      ],
+      [
+        1403,
+        634
+      ],
+      [
+        634,
+        1042
+      ],
+      [
+        1042,
+        820
+      ],
+      [
+        820,
+        2004
+      ],
+      [
+        2004,
+        1043
+      ],
+      [
+        1043,
+        1404
+      ],
+      [
+        1404,
+        741
+      ],
+      [
+        741,
+        512
+      ],
+      [
+        512,
+        821
+      ],
+      [
+        821,
+        2005
+      ]
+    ],
+    "why_previous_emitted_nothing": "previous pass required repeated same-direction issue pairs across at least two lists; one focused list cannot satisfy that threshold"
+  },
+  {
+    "cbl_file": "Marvel/Events/CBRO/[Marvel] Cosmic Marvel (WEB-CBRO).cbl",
+    "source_family": "WEB-CBRO",
+    "threads": [
+      "Captain Marvel",
+      "Infinity Crusade",
+      "Infinity War",
+      "Silver Surfer / Warlock: Resurrection",
+      "Thanos",
+      "Warlock and the Infinity Watch"
+    ],
+    "matched_issues": [
+      {
+        "title": "Captain Marvel",
+        "issue": "26",
+        "thread_id": 189
+      },
+      {
+        "title": "Captain Marvel",
+        "issue": "31",
+        "thread_id": 189
+      },
+      {
+        "title": "Warlock and the Infinity Watch",
+        "issue": "1",
+        "thread_id": 101
+      },
+      {
+        "title": "Warlock and the Infinity Watch",
+        "issue": "2",
+        "thread_id": 101
+      },
+      {
+        "title": "Warlock and the Infinity Watch",
+        "issue": "3",
+        "thread_id": 101
+      },
+      {
+        "title": "Warlock and the Infinity Watch",
+        "issue": "4",
+        "thread_id": 101
+      },
+      {
+        "title": "Warlock and the Infinity Watch",
+        "issue": "5",
+        "thread_id": 101
+      },
+      {
+        "title": "Warlock and the Infinity Watch",
+        "issue": "6",
+        "thread_id": 101
+      },
+      {
+        "title": "Warlock and the Infinity Watch",
+        "issue": "7",
+        "thread_id": 101
+      },
+      {
+        "title": "Infinity War",
+        "issue": "1",
+        "thread_id": 296
+      },
+      {
+        "title": "Infinity War",
+        "issue": "2",
+        "thread_id": 296
+      },
+      {
+        "title": "Infinity War",
+        "issue": "3",
+        "thread_id": 296
+      },
+      {
+        "title": "Infinity War",
+        "issue": "4",
+        "thread_id": 296
+      },
+      {
+        "title": "Infinity War",
+        "issue": "5",
+        "thread_id": 296
+      },
+      {
+        "title": "Infinity War",
+        "issue": "6",
+        "thread_id": 296
+      },
+      {
+        "title": "Silver Surfer / Warlock: Resurrection",
+        "issue": "1",
+        "thread_id": 297
+      },
+      {
+        "title": "Silver Surfer / Warlock: Resurrection",
+        "issue": "2",
+        "thread_id": 297
+      },
+      {
+        "title": "Silver Surfer / Warlock: Resurrection",
+        "issue": "3",
+        "thread_id": 297
+      },
+      {
+        "title": "Silver Surfer / Warlock: Resurrection",
+        "issue": "4",
+        "thread_id": 297
+      },
+      {
+        "title": "Infinity Crusade",
+        "issue": "1",
+        "thread_id": 298
+      },
+      {
+        "title": "Infinity Crusade",
+        "issue": "2",
+        "thread_id": 298
+      },
+      {
+        "title": "Infinity Crusade",
+        "issue": "3",
+        "thread_id": 298
+      },
+      {
+        "title": "Infinity Crusade",
+        "issue": "4",
+        "thread_id": 298
+      },
+      {
+        "title": "Infinity Crusade",
+        "issue": "5",
+        "thread_id": 298
+      },
+      {
+        "title": "Infinity Crusade",
+        "issue": "6",
+        "thread_id": 298
+      },
+      {
+        "title": "Thanos",
+        "issue": "5",
+        "thread_id": 3179
+      },
+      {
+        "title": "Thanos",
+        "issue": "6",
+        "thread_id": 3179
+      },
+      {
+        "title": "Thanos",
+        "issue": "7",
+        "thread_id": 3179
+      },
+      {
+        "title": "Thanos",
+        "issue": "8",
+        "thread_id": 3179
+      },
+      {
+        "title": "Thanos",
+        "issue": "9",
+        "thread_id": 3179
+      },
+      {
+        "title": "Thanos",
+        "issue": "10",
+        "thread_id": 3179
+      },
+      {
+        "title": "Thanos",
+        "issue": "11",
+        "thread_id": 3179
+      },
+      {
+        "title": "Thanos",
+        "issue": "12",
+        "thread_id": 3179
+      }
+    ],
+    "collapsed_thread_sequence": [
+      189,
+      101,
+      296,
+      297,
+      298,
+      3179
+    ],
+    "candidate_edges": [
+      [
+        1543,
+        1548
+      ],
+      [
+        1548,
+        660
+      ],
+      [
+        660,
+        661
+      ],
+      [
+        661,
+        662
+      ],
+      [
+        662,
+        663
+      ],
+      [
+        663,
+        664
+      ],
+      [
+        664,
+        665
+      ],
+      [
+        665,
+        666
+      ],
+      [
+        666,
+        667
+      ],
+      [
+        667,
+        668
+      ],
+      [
+        668,
+        669
+      ],
+      [
+        669,
+        670
+      ],
+      [
+        670,
+        671
+      ],
+      [
+        671,
+        672
+      ],
+      [
+        672,
+        673
+      ],
+      [
+        673,
+        674
+      ],
+      [
+        674,
+        675
+      ],
+      [
+        675,
+        676
+      ],
+      [
+        676,
+        677
+      ],
+      [
+        677,
+        678
+      ],
+      [
+        678,
+        679
+      ],
+      [
+        679,
+        680
+      ],
+      [
+        680,
+        681
+      ],
+      [
+        681,
+        682
+      ],
+      [
+        682,
+        23421
+      ],
+      [
+        23421,
+        23422
+      ],
+      [
+        23422,
+        23423
+      ],
+      [
+        23423,
+        23424
+      ],
+      [
+        23424,
+        23425
+      ],
+      [
+        23425,
+        23426
+      ],
+      [
+        23426,
+        23427
+      ],
+      [
+        23427,
+        23428
+      ]
+    ],
+    "why_previous_emitted_nothing": "previous pass required repeated same-direction issue pairs across at least two lists; one focused list cannot satisfy that threshold"
+  }
+]

@@ -1,0 +1,29 @@
+digraph cosmic_marvel {
+ "1543" -> "1548" [label="series_spine"];
+ "660" -> "661" [label="series_spine"];
+ "661" -> "662" [label="series_spine"];
+ "662" -> "663" [label="series_spine"];
+ "663" -> "664" [label="series_spine"];
+ "664" -> "665" [label="series_spine"];
+ "665" -> "666" [label="series_spine"];
+ "667" -> "668" [label="series_spine"];
+ "668" -> "669" [label="series_spine"];
+ "669" -> "670" [label="series_spine"];
+ "670" -> "671" [label="series_spine"];
+ "671" -> "672" [label="series_spine"];
+ "673" -> "674" [label="series_spine"];
+ "674" -> "675" [label="series_spine"];
+ "675" -> "676" [label="series_spine"];
+ "677" -> "678" [label="series_spine"];
+ "678" -> "679" [label="series_spine"];
+ "679" -> "680" [label="series_spine"];
+ "680" -> "681" [label="series_spine"];
+ "681" -> "682" [label="series_spine"];
+ "23421" -> "23422" [label="series_spine"];
+ "23422" -> "23423" [label="series_spine"];
+ "23423" -> "23424" [label="series_spine"];
+ "23424" -> "23425" [label="series_spine"];
+ "23425" -> "23426" [label="series_spine"];
+ "23426" -> "23427" [label="series_spine"];
+ "23427" -> "23428" [label="series_spine"];
+}
